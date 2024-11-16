@@ -25,17 +25,18 @@ class BaseNetwork():
         self.logger = logging.getLogger(model_class_constructor.__name__)
         self.dataset = TimeSeriesDataset # it is a constructor, to use for the first time call it with brackets, like this: self.dataset(data=data, target=target)
         self.collator = TimeSeriesCollator # it is a constructor, to use for the first time call it with brackets, like this: self.collator(dataset, batch_size=batch_size, collate_fn=collator)
+        assert data.shape[-1] == target.shape[-1]
         self.train_data, self.test_data = self.data_spliter(data)
         self.train_target, self.test_target= self.data_spliter(target)
 
     def data_spliter(self, tensor: torch.Tensor):
         test_size_percentage = self.base_config.test_size_percentage
-        test_size = len(tensor) * test_size_percentage
+        test_size = int(len(tensor) * test_size_percentage)
         return tensor[:-test_size,:], tensor[-test_size:,:]
     
     def evaluate(self, model):
-        eval_dataset = self.dataset(data=self.data_test, 
-                                    target=self.target_test, 
+        eval_dataset = self.dataset(data=self.test_data, 
+                                    target=self.test_target, 
                                     base_config=self.base_config)
         batch_size = self.base_config.batch_size
         collator = self.collator(batch_size)
@@ -71,7 +72,7 @@ class BaseNetwork():
         criterion = nn.MSELoss()
         loss_logs = list()
         self.logger.info('Optimizer and loss have been initialized')
-
+        
         for epoch in range(self.base_config.num_epochs):
             model.train()
             total_loss = 0
@@ -112,8 +113,8 @@ class BaseConfig:
     learning_rate: float = field(default=0.0003)
     adam_betas: Tuple = field(default=(0.95, 0.99))
     test_size_percentage: float = field(default=0.05)
-    predictor_days: int = field(default=30)
-    forecast_days: int = field(default=1)
+    predictor_period: int = field(default=30)
+    forecast_period: int = field(default=1)
 
     @classmethod
     def from_dict(cls, config_dict):
@@ -126,7 +127,6 @@ class TimeSeriesDataset(Dataset):
         self.data, self.target = self.dataslice(data=data, target=target)
         
     def dataslice(self, data: torch.Tensor, target: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor]:
-        assert data.shape[-1] == target.shape[-1]
         predictor_days = self.base_config.predictor_period
         forecast_days = self.base_config.forecast_period
 
@@ -138,7 +138,6 @@ class TimeSeriesDataset(Dataset):
             target_seq = target[i + predictor_days:i + predictor_days + forecast_days]
             X_sequences.append(predictors)
             y_sequences.append(target_seq)
-
         return torch.stack(X_sequences), torch.stack(y_sequences)
 
     def __len__(self):
