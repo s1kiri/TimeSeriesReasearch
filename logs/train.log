@@ -1,0 +1,1730 @@
+2024-11-16 17:59:10,379 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:00:22,998 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:00:31,872 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:00:32,340 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:00:32,341 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:01:06,013 - BaseNetwork - INFO - Epoch 1, Loss: 1106863125.2236505
+2024-11-16 18:01:06,013 - BaseNetwork - INFO - Validating...
+2024-11-16 18:01:21,465 - BaseNetwork - INFO - Validation Loss: 892395800.8888888
+2024-11-16 18:03:43,533 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:03:44,322 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:03:44,796 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:03:44,797 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:04:18,220 - BaseNetwork - INFO - Epoch 1, Loss: 1106868090.6940875
+2024-11-16 18:04:18,221 - BaseNetwork - INFO - Validating...
+2024-11-16 18:04:18,441 - BaseNetwork - INFO - Validation Loss: 892151232.0
+2024-11-16 18:07:25,349 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:07:25,771 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:07:26,248 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:07:26,248 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:07:36,575 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:07:36,783 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:07:36,784 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:07:36,784 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:07:41,897 - BaseNetwork - INFO - Epoch 1, Loss: 1107917364.421594
+2024-11-16 18:07:41,897 - BaseNetwork - INFO - Validating...
+2024-11-16 18:07:41,975 - BaseNetwork - INFO - Validation Loss: 894054939.2592592
+2024-11-16 18:10:01,458 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:10:02,097 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:10:02,527 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:10:02,527 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:10:07,434 - BaseNetwork - INFO - Epoch 1, Loss: 1107951525.9023137
+2024-11-16 18:10:07,434 - BaseNetwork - INFO - Validating...
+2024-11-16 18:10:08,759 - BaseNetwork - INFO - Validation Loss: 893873926.1528958
+2024-11-16 18:12:33,298 - BaseNetwork - INFO - Validation Loss: 893873926.1528958
+2024-11-16 18:13:41,422 - BaseNetwork - INFO - Validation Loss: 893873926.1528958
+2024-11-16 18:24:35,078 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:24:35,520 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:24:35,998 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:24:35,998 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:24:39,412 - BaseNetwork - INFO - Epoch 1, Loss: 1107770908.915167
+2024-11-16 18:24:39,412 - BaseNetwork - INFO - Validating...
+2024-11-16 18:24:58,477 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:24:59,010 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:24:59,441 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:24:59,441 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:25:02,553 - BaseNetwork - INFO - Epoch 1, Loss: 1107769214.7249358
+2024-11-16 18:25:02,554 - BaseNetwork - INFO - Validating...
+2024-11-16 18:25:03,287 - BaseNetwork - INFO - Validation Loss: 893950830.8756757
+2024-11-16 18:25:44,930 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 18:25:46,082 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 18:25:46,083 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 18:25:46,084 - BaseNetwork - INFO - Epoch 0
+2024-11-16 18:25:54,481 - BaseNetwork - INFO - Epoch 1, Loss: 1109437148.6272492
+2024-11-16 18:25:54,481 - BaseNetwork - INFO - Validating...
+2024-11-16 18:25:56,789 - BaseNetwork - INFO - Validation Loss: 900924414.5617977
+2024-11-16 18:26:03,632 - BaseNetwork - INFO - Validation Loss: 900924414.5617977
+2024-11-16 19:47:30,695 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:47:32,249 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:47:32,738 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:47:32,738 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:52:03,916 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:52:06,074 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:52:06,554 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:52:06,554 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:53:45,855 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:53:46,563 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:53:47,036 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:53:47,036 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:55:43,866 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:55:44,637 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:55:45,106 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:55:45,106 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:56:18,101 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:56:18,936 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:56:19,372 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:56:19,373 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:57:01,195 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:57:02,983 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:57:03,486 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:57:03,487 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:58:30,535 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:58:32,407 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:58:32,929 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:58:32,930 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:59:35,501 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 19:59:35,894 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 19:59:36,377 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 19:59:36,378 - BaseNetwork - INFO - Epoch 0
+2024-11-16 19:59:44,671 - BaseNetwork - INFO - Epoch 1, Loss: 1109443995.6401029
+2024-11-16 19:59:44,672 - BaseNetwork - INFO - Validating...
+2024-11-16 19:59:46,914 - BaseNetwork - INFO - Validation Loss: 900927093.0080256
+2024-11-16 20:00:34,847 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 20:00:35,504 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 20:00:35,504 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 20:00:35,505 - BaseNetwork - INFO - Epoch 0
+2024-11-16 20:00:49,867 - BaseNetwork - INFO - Epoch 1, Loss: 1104441142.8102565
+2024-11-16 20:00:49,868 - BaseNetwork - INFO - Validating...
+2024-11-16 20:00:49,868 - BaseNetwork - INFO - Epoch 1
+2024-11-16 20:01:04,493 - BaseNetwork - INFO - Epoch 2, Loss: 1099730498.9538462
+2024-11-16 20:01:04,493 - BaseNetwork - INFO - Validating...
+2024-11-16 20:01:12,625 - BaseNetwork - INFO - Validation Loss: 885195276.2280432
+2024-11-16 20:01:55,489 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 20:01:56,006 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 20:01:56,007 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 20:01:56,007 - BaseNetwork - INFO - Epoch 0
+2024-11-16 20:03:10,632 - BaseNetwork - INFO - Epoch 1, Loss: 1103954826.5025642
+2024-11-16 20:03:10,634 - BaseNetwork - INFO - Validating...
+2024-11-16 20:03:10,634 - BaseNetwork - INFO - Epoch 1
+2024-11-16 20:04:25,064 - BaseNetwork - INFO - Epoch 2, Loss: 1090787139.6102564
+2024-11-16 20:04:25,066 - BaseNetwork - INFO - Validating...
+2024-11-16 20:04:25,066 - BaseNetwork - INFO - Epoch 2
+2024-11-16 20:05:42,048 - BaseNetwork - INFO - Epoch 3, Loss: 1077969048.2871795
+2024-11-16 20:05:42,049 - BaseNetwork - INFO - Validating...
+2024-11-16 20:05:42,050 - BaseNetwork - INFO - Epoch 3
+2024-11-16 20:06:59,779 - BaseNetwork - INFO - Epoch 4, Loss: 1065485942.1538461
+2024-11-16 20:06:59,780 - BaseNetwork - INFO - Validating...
+2024-11-16 20:06:59,781 - BaseNetwork - INFO - Epoch 4
+2024-11-16 20:08:14,510 - BaseNetwork - INFO - Epoch 5, Loss: 1053320181.1692308
+2024-11-16 20:08:14,512 - BaseNetwork - INFO - Validating...
+2024-11-16 20:08:14,512 - BaseNetwork - INFO - Epoch 5
+2024-11-16 20:09:32,870 - BaseNetwork - INFO - Epoch 6, Loss: 1041461267.3641026
+2024-11-16 20:09:32,871 - BaseNetwork - INFO - Validating...
+2024-11-16 20:09:32,871 - BaseNetwork - INFO - Epoch 6
+2024-11-16 20:10:51,273 - BaseNetwork - INFO - Epoch 7, Loss: 1029900275.5282052
+2024-11-16 20:10:51,275 - BaseNetwork - INFO - Validating...
+2024-11-16 20:10:51,275 - BaseNetwork - INFO - Epoch 7
+2024-11-16 20:12:10,964 - BaseNetwork - INFO - Epoch 8, Loss: 1018465333.825641
+2024-11-16 20:12:10,965 - BaseNetwork - INFO - Validating...
+2024-11-16 20:12:10,965 - BaseNetwork - INFO - Epoch 8
+2024-11-16 20:13:24,488 - BaseNetwork - INFO - Epoch 9, Loss: 1007421611.9794872
+2024-11-16 20:13:24,489 - BaseNetwork - INFO - Validating...
+2024-11-16 20:13:24,489 - BaseNetwork - INFO - Epoch 9
+2024-11-16 20:14:37,058 - BaseNetwork - INFO - Epoch 10, Loss: 996681522.2153846
+2024-11-16 20:14:37,059 - BaseNetwork - INFO - Validating...
+2024-11-16 20:14:37,060 - BaseNetwork - INFO - Epoch 10
+2024-11-16 20:15:51,670 - BaseNetwork - INFO - Epoch 11, Loss: 986208749.6205128
+2024-11-16 20:15:51,671 - BaseNetwork - INFO - Validating...
+2024-11-16 20:15:51,671 - BaseNetwork - INFO - Epoch 11
+2024-11-16 20:17:09,476 - BaseNetwork - INFO - Epoch 12, Loss: 975995272.5333333
+2024-11-16 20:17:09,477 - BaseNetwork - INFO - Validating...
+2024-11-16 20:17:09,478 - BaseNetwork - INFO - Epoch 12
+2024-11-16 20:18:25,433 - BaseNetwork - INFO - Epoch 13, Loss: 966033924.9230769
+2024-11-16 20:18:25,434 - BaseNetwork - INFO - Validating...
+2024-11-16 20:18:25,435 - BaseNetwork - INFO - Epoch 13
+2024-11-16 20:19:41,051 - BaseNetwork - INFO - Epoch 14, Loss: 956317562.7487179
+2024-11-16 20:19:41,053 - BaseNetwork - INFO - Validating...
+2024-11-16 20:19:41,053 - BaseNetwork - INFO - Epoch 14
+2024-11-16 20:20:59,073 - BaseNetwork - INFO - Epoch 15, Loss: 946839561.1897436
+2024-11-16 20:20:59,075 - BaseNetwork - INFO - Validating...
+2024-11-16 20:20:59,075 - BaseNetwork - INFO - Epoch 15
+2024-11-16 20:22:18,540 - BaseNetwork - INFO - Epoch 16, Loss: 937593309.8666667
+2024-11-16 20:22:18,541 - BaseNetwork - INFO - Validating...
+2024-11-16 20:22:18,542 - BaseNetwork - INFO - Epoch 16
+2024-11-16 20:23:37,583 - BaseNetwork - INFO - Epoch 17, Loss: 928572575.1794872
+2024-11-16 20:23:37,585 - BaseNetwork - INFO - Validating...
+2024-11-16 20:23:37,585 - BaseNetwork - INFO - Epoch 17
+2024-11-16 20:24:56,232 - BaseNetwork - INFO - Epoch 18, Loss: 919768202.8307692
+2024-11-16 20:24:56,233 - BaseNetwork - INFO - Validating...
+2024-11-16 20:24:56,234 - BaseNetwork - INFO - Epoch 18
+2024-11-16 20:26:14,939 - BaseNetwork - INFO - Epoch 19, Loss: 911093990.7282051
+2024-11-16 20:26:14,940 - BaseNetwork - INFO - Validating...
+2024-11-16 20:26:14,941 - BaseNetwork - INFO - Epoch 19
+2024-11-16 20:27:31,922 - BaseNetwork - INFO - Epoch 20, Loss: 902596020.8410256
+2024-11-16 20:27:31,924 - BaseNetwork - INFO - Validating...
+2024-11-16 20:27:31,924 - BaseNetwork - INFO - Epoch 20
+2024-11-16 20:28:45,643 - BaseNetwork - INFO - Epoch 21, Loss: 894231770.2564102
+2024-11-16 20:28:45,645 - BaseNetwork - INFO - Validating...
+2024-11-16 20:28:45,645 - BaseNetwork - INFO - Epoch 21
+2024-11-16 20:30:01,409 - BaseNetwork - INFO - Epoch 22, Loss: 886031047.2205129
+2024-11-16 20:30:01,411 - BaseNetwork - INFO - Validating...
+2024-11-16 20:30:01,411 - BaseNetwork - INFO - Epoch 22
+2024-11-16 20:31:19,089 - BaseNetwork - INFO - Epoch 23, Loss: 879394312.8615384
+2024-11-16 20:31:19,091 - BaseNetwork - INFO - Validating...
+2024-11-16 20:31:19,091 - BaseNetwork - INFO - Epoch 23
+2024-11-16 20:32:36,705 - BaseNetwork - INFO - Epoch 24, Loss: 1107237598.8512821
+2024-11-16 20:32:36,707 - BaseNetwork - INFO - Validating...
+2024-11-16 20:32:36,707 - BaseNetwork - INFO - Epoch 24
+2024-11-16 20:33:51,157 - BaseNetwork - INFO - Epoch 25, Loss: 1097300010.6666667
+2024-11-16 20:33:51,158 - BaseNetwork - INFO - Validating...
+2024-11-16 20:34:44,280 - BaseNetwork - INFO - Validation Loss: 895854915.64687
+2024-11-16 20:35:14,475 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 20:35:14,974 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 20:35:14,974 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 20:35:14,975 - BaseNetwork - INFO - Epoch 0
+2024-11-16 20:35:16,431 - BaseNetwork - INFO - Epoch 1, Loss: 1105995030.2040815
+2024-11-16 20:35:16,432 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:16,433 - BaseNetwork - INFO - Epoch 1
+2024-11-16 20:35:17,866 - BaseNetwork - INFO - Epoch 2, Loss: 1105683360.6530612
+2024-11-16 20:35:17,866 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:17,868 - BaseNetwork - INFO - Epoch 2
+2024-11-16 20:35:19,188 - BaseNetwork - INFO - Epoch 3, Loss: 1105256382.6938775
+2024-11-16 20:35:19,189 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:19,189 - BaseNetwork - INFO - Epoch 3
+2024-11-16 20:35:20,478 - BaseNetwork - INFO - Epoch 4, Loss: 1104861328.9795918
+2024-11-16 20:35:20,479 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:20,479 - BaseNetwork - INFO - Epoch 4
+2024-11-16 20:35:21,748 - BaseNetwork - INFO - Epoch 5, Loss: 1104400208.9795918
+2024-11-16 20:35:21,749 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:21,749 - BaseNetwork - INFO - Epoch 5
+2024-11-16 20:35:23,075 - BaseNetwork - INFO - Epoch 6, Loss: 1103955877.877551
+2024-11-16 20:35:23,075 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:23,076 - BaseNetwork - INFO - Epoch 6
+2024-11-16 20:35:24,422 - BaseNetwork - INFO - Epoch 7, Loss: 1103501737.7959185
+2024-11-16 20:35:24,422 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:24,424 - BaseNetwork - INFO - Epoch 7
+2024-11-16 20:35:25,789 - BaseNetwork - INFO - Epoch 8, Loss: 1103074630.5306122
+2024-11-16 20:35:25,790 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:25,791 - BaseNetwork - INFO - Epoch 8
+2024-11-16 20:35:27,058 - BaseNetwork - INFO - Epoch 9, Loss: 1102651230.0408163
+2024-11-16 20:35:27,058 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:27,059 - BaseNetwork - INFO - Epoch 9
+2024-11-16 20:35:28,313 - BaseNetwork - INFO - Epoch 10, Loss: 1102231380.8979592
+2024-11-16 20:35:28,313 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:28,314 - BaseNetwork - INFO - Epoch 10
+2024-11-16 20:35:29,595 - BaseNetwork - INFO - Epoch 11, Loss: 1101814742.2040815
+2024-11-16 20:35:29,595 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:29,596 - BaseNetwork - INFO - Epoch 11
+2024-11-16 20:35:30,948 - BaseNetwork - INFO - Epoch 12, Loss: 1101400903.8367348
+2024-11-16 20:35:30,949 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:30,950 - BaseNetwork - INFO - Epoch 12
+2024-11-16 20:35:32,239 - BaseNetwork - INFO - Epoch 13, Loss: 1100989667.2653062
+2024-11-16 20:35:32,239 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:32,241 - BaseNetwork - INFO - Epoch 13
+2024-11-16 20:35:33,640 - BaseNetwork - INFO - Epoch 14, Loss: 1100580775.1836734
+2024-11-16 20:35:33,640 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:33,641 - BaseNetwork - INFO - Epoch 14
+2024-11-16 20:35:35,079 - BaseNetwork - INFO - Epoch 15, Loss: 1100174142.6938775
+2024-11-16 20:35:35,080 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:35,080 - BaseNetwork - INFO - Epoch 15
+2024-11-16 20:35:36,369 - BaseNetwork - INFO - Epoch 16, Loss: 1099769696.6530612
+2024-11-16 20:35:36,369 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:36,371 - BaseNetwork - INFO - Epoch 16
+2024-11-16 20:35:37,611 - BaseNetwork - INFO - Epoch 17, Loss: 1099367370.4489796
+2024-11-16 20:35:37,611 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:37,612 - BaseNetwork - INFO - Epoch 17
+2024-11-16 20:35:38,886 - BaseNetwork - INFO - Epoch 18, Loss: 1098967139.2653062
+2024-11-16 20:35:38,887 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:38,887 - BaseNetwork - INFO - Epoch 18
+2024-11-16 20:35:40,149 - BaseNetwork - INFO - Epoch 19, Loss: 1098568945.632653
+2024-11-16 20:35:40,149 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:40,150 - BaseNetwork - INFO - Epoch 19
+2024-11-16 20:35:41,477 - BaseNetwork - INFO - Epoch 20, Loss: 1098172785.632653
+2024-11-16 20:35:41,477 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:41,478 - BaseNetwork - INFO - Epoch 20
+2024-11-16 20:35:42,732 - BaseNetwork - INFO - Epoch 21, Loss: 1097778660.5714285
+2024-11-16 20:35:42,732 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:42,733 - BaseNetwork - INFO - Epoch 21
+2024-11-16 20:35:44,003 - BaseNetwork - INFO - Epoch 22, Loss: 1097386550.857143
+2024-11-16 20:35:44,003 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:44,004 - BaseNetwork - INFO - Epoch 22
+2024-11-16 20:35:45,263 - BaseNetwork - INFO - Epoch 23, Loss: 1096996431.6734693
+2024-11-16 20:35:45,263 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:45,264 - BaseNetwork - INFO - Epoch 23
+2024-11-16 20:35:46,704 - BaseNetwork - INFO - Epoch 24, Loss: 1096608280.8163266
+2024-11-16 20:35:46,705 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:46,705 - BaseNetwork - INFO - Epoch 24
+2024-11-16 20:35:48,140 - BaseNetwork - INFO - Epoch 25, Loss: 1096222080.0
+2024-11-16 20:35:48,140 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:48,141 - BaseNetwork - INFO - Epoch 25
+2024-11-16 20:35:49,471 - BaseNetwork - INFO - Epoch 26, Loss: 1095837893.2244897
+2024-11-16 20:35:49,472 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:49,472 - BaseNetwork - INFO - Epoch 26
+2024-11-16 20:35:50,946 - BaseNetwork - INFO - Epoch 27, Loss: 1095455618.6122448
+2024-11-16 20:35:50,946 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:50,947 - BaseNetwork - INFO - Epoch 27
+2024-11-16 20:35:52,074 - BaseNetwork - INFO - Epoch 28, Loss: 1095075258.7755103
+2024-11-16 20:35:52,074 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:52,075 - BaseNetwork - INFO - Epoch 28
+2024-11-16 20:35:53,705 - BaseNetwork - INFO - Epoch 29, Loss: 1094526219.7551022
+2024-11-16 20:35:53,706 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:53,706 - BaseNetwork - INFO - Epoch 29
+2024-11-16 20:35:55,053 - BaseNetwork - INFO - Epoch 30, Loss: 1094113504.6530612
+2024-11-16 20:35:55,054 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:55,054 - BaseNetwork - INFO - Epoch 30
+2024-11-16 20:35:56,350 - BaseNetwork - INFO - Epoch 31, Loss: 1093730808.1632652
+2024-11-16 20:35:56,350 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:56,351 - BaseNetwork - INFO - Epoch 31
+2024-11-16 20:35:57,587 - BaseNetwork - INFO - Epoch 32, Loss: 1093350443.1020408
+2024-11-16 20:35:57,587 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:57,588 - BaseNetwork - INFO - Epoch 32
+2024-11-16 20:35:58,861 - BaseNetwork - INFO - Epoch 33, Loss: 1092972429.0612245
+2024-11-16 20:35:58,861 - BaseNetwork - INFO - Validating...
+2024-11-16 20:35:58,862 - BaseNetwork - INFO - Epoch 33
+2024-11-16 20:36:00,111 - BaseNetwork - INFO - Epoch 34, Loss: 1092596614.5306122
+2024-11-16 20:36:00,111 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:00,112 - BaseNetwork - INFO - Epoch 34
+2024-11-16 20:36:01,368 - BaseNetwork - INFO - Epoch 35, Loss: 1092222934.2040815
+2024-11-16 20:36:01,369 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:01,369 - BaseNetwork - INFO - Epoch 35
+2024-11-16 20:36:02,661 - BaseNetwork - INFO - Epoch 36, Loss: 1091851278.367347
+2024-11-16 20:36:02,662 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:02,663 - BaseNetwork - INFO - Epoch 36
+2024-11-16 20:36:03,895 - BaseNetwork - INFO - Epoch 37, Loss: 1091481562.122449
+2024-11-16 20:36:03,895 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:03,895 - BaseNetwork - INFO - Epoch 37
+2024-11-16 20:36:05,160 - BaseNetwork - INFO - Epoch 38, Loss: 1091113789.3877552
+2024-11-16 20:36:05,160 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:05,161 - BaseNetwork - INFO - Epoch 38
+2024-11-16 20:36:06,412 - BaseNetwork - INFO - Epoch 39, Loss: 1090747917.0612245
+2024-11-16 20:36:06,412 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:06,413 - BaseNetwork - INFO - Epoch 39
+2024-11-16 20:36:07,666 - BaseNetwork - INFO - Epoch 40, Loss: 1090383926.857143
+2024-11-16 20:36:07,667 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:07,667 - BaseNetwork - INFO - Epoch 40
+2024-11-16 20:36:08,901 - BaseNetwork - INFO - Epoch 41, Loss: 1090021766.5306122
+2024-11-16 20:36:08,902 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:08,902 - BaseNetwork - INFO - Epoch 41
+2024-11-16 20:36:10,183 - BaseNetwork - INFO - Epoch 42, Loss: 1089661447.8367348
+2024-11-16 20:36:10,184 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:10,184 - BaseNetwork - INFO - Epoch 42
+2024-11-16 20:36:11,430 - BaseNetwork - INFO - Epoch 43, Loss: 1089302982.5306122
+2024-11-16 20:36:11,431 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:11,431 - BaseNetwork - INFO - Epoch 43
+2024-11-16 20:36:12,691 - BaseNetwork - INFO - Epoch 44, Loss: 1088946314.4489796
+2024-11-16 20:36:12,692 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:12,692 - BaseNetwork - INFO - Epoch 44
+2024-11-16 20:36:14,153 - BaseNetwork - INFO - Epoch 45, Loss: 1088591478.857143
+2024-11-16 20:36:14,153 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:14,154 - BaseNetwork - INFO - Epoch 45
+2024-11-16 20:36:15,531 - BaseNetwork - INFO - Epoch 46, Loss: 1088238424.8163266
+2024-11-16 20:36:15,531 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:15,531 - BaseNetwork - INFO - Epoch 46
+2024-11-16 20:36:16,849 - BaseNetwork - INFO - Epoch 47, Loss: 1087887143.1836734
+2024-11-16 20:36:16,849 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:16,849 - BaseNetwork - INFO - Epoch 47
+2024-11-16 20:36:18,131 - BaseNetwork - INFO - Epoch 48, Loss: 1087537644.4081633
+2024-11-16 20:36:18,132 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:18,132 - BaseNetwork - INFO - Epoch 48
+2024-11-16 20:36:19,405 - BaseNetwork - INFO - Epoch 49, Loss: 1087189945.4693878
+2024-11-16 20:36:19,405 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:19,405 - BaseNetwork - INFO - Epoch 49
+2024-11-16 20:36:20,638 - BaseNetwork - INFO - Epoch 50, Loss: 1086843948.4081633
+2024-11-16 20:36:20,638 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:20,639 - BaseNetwork - INFO - Epoch 50
+2024-11-16 20:36:22,149 - BaseNetwork - INFO - Epoch 51, Loss: 1086499742.0408163
+2024-11-16 20:36:22,150 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:22,150 - BaseNetwork - INFO - Epoch 51
+2024-11-16 20:36:23,590 - BaseNetwork - INFO - Epoch 52, Loss: 1086157263.6734693
+2024-11-16 20:36:23,590 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:23,590 - BaseNetwork - INFO - Epoch 52
+2024-11-16 20:36:24,842 - BaseNetwork - INFO - Epoch 53, Loss: 1085816518.5306122
+2024-11-16 20:36:24,842 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:24,843 - BaseNetwork - INFO - Epoch 53
+2024-11-16 20:36:26,100 - BaseNetwork - INFO - Epoch 54, Loss: 1085477506.6122448
+2024-11-16 20:36:26,100 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:26,102 - BaseNetwork - INFO - Epoch 54
+2024-11-16 20:36:27,236 - BaseNetwork - INFO - Epoch 55, Loss: 1085140179.5918367
+2024-11-16 20:36:27,236 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:27,237 - BaseNetwork - INFO - Epoch 55
+2024-11-16 20:36:28,375 - BaseNetwork - INFO - Epoch 56, Loss: 1084804587.1020408
+2024-11-16 20:36:28,376 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:28,377 - BaseNetwork - INFO - Epoch 56
+2024-11-16 20:36:29,665 - BaseNetwork - INFO - Epoch 57, Loss: 1084470637.7142856
+2024-11-16 20:36:29,665 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:29,666 - BaseNetwork - INFO - Epoch 57
+2024-11-16 20:36:31,076 - BaseNetwork - INFO - Epoch 58, Loss: 1084138430.6938775
+2024-11-16 20:36:31,076 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:31,076 - BaseNetwork - INFO - Epoch 58
+2024-11-16 20:36:32,389 - BaseNetwork - INFO - Epoch 59, Loss: 1083807881.142857
+2024-11-16 20:36:32,390 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:32,390 - BaseNetwork - INFO - Epoch 59
+2024-11-16 20:36:33,729 - BaseNetwork - INFO - Epoch 60, Loss: 1083479000.8163266
+2024-11-16 20:36:33,729 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:33,731 - BaseNetwork - INFO - Epoch 60
+2024-11-16 20:36:35,015 - BaseNetwork - INFO - Epoch 61, Loss: 1083151780.5714285
+2024-11-16 20:36:35,015 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:35,016 - BaseNetwork - INFO - Epoch 61
+2024-11-16 20:36:36,371 - BaseNetwork - INFO - Epoch 62, Loss: 1082826198.2040815
+2024-11-16 20:36:36,372 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:36,373 - BaseNetwork - INFO - Epoch 62
+2024-11-16 20:36:37,675 - BaseNetwork - INFO - Epoch 63, Loss: 1082502292.8979592
+2024-11-16 20:36:37,675 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:37,676 - BaseNetwork - INFO - Epoch 63
+2024-11-16 20:36:38,969 - BaseNetwork - INFO - Epoch 64, Loss: 1082179984.9795918
+2024-11-16 20:36:38,969 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:38,970 - BaseNetwork - INFO - Epoch 64
+2024-11-16 20:36:40,278 - BaseNetwork - INFO - Epoch 65, Loss: 1081859317.5510204
+2024-11-16 20:36:40,278 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:40,278 - BaseNetwork - INFO - Epoch 65
+2024-11-16 20:36:41,599 - BaseNetwork - INFO - Epoch 66, Loss: 1081540290.6122448
+2024-11-16 20:36:41,600 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:41,600 - BaseNetwork - INFO - Epoch 66
+2024-11-16 20:36:43,023 - BaseNetwork - INFO - Epoch 67, Loss: 1081222815.3469388
+2024-11-16 20:36:43,023 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:43,024 - BaseNetwork - INFO - Epoch 67
+2024-11-16 20:36:44,299 - BaseNetwork - INFO - Epoch 68, Loss: 1080906994.9387755
+2024-11-16 20:36:44,300 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:44,300 - BaseNetwork - INFO - Epoch 68
+2024-11-16 20:36:45,427 - BaseNetwork - INFO - Epoch 69, Loss: 1080592728.8163266
+2024-11-16 20:36:45,428 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:45,428 - BaseNetwork - INFO - Epoch 69
+2024-11-16 20:36:46,546 - BaseNetwork - INFO - Epoch 70, Loss: 1080280078.367347
+2024-11-16 20:36:46,546 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:46,547 - BaseNetwork - INFO - Epoch 70
+2024-11-16 20:36:47,670 - BaseNetwork - INFO - Epoch 71, Loss: 1079968996.5714285
+2024-11-16 20:36:47,671 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:47,671 - BaseNetwork - INFO - Epoch 71
+2024-11-16 20:36:48,794 - BaseNetwork - INFO - Epoch 72, Loss: 1079659496.489796
+2024-11-16 20:36:48,794 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:48,794 - BaseNetwork - INFO - Epoch 72
+2024-11-16 20:36:49,926 - BaseNetwork - INFO - Epoch 73, Loss: 1079351525.877551
+2024-11-16 20:36:49,927 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:49,928 - BaseNetwork - INFO - Epoch 73
+2024-11-16 20:36:51,015 - BaseNetwork - INFO - Epoch 74, Loss: 1079045131.7551022
+2024-11-16 20:36:51,016 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:51,016 - BaseNetwork - INFO - Epoch 74
+2024-11-16 20:36:52,159 - BaseNetwork - INFO - Epoch 75, Loss: 1078740259.2653062
+2024-11-16 20:36:52,160 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:52,160 - BaseNetwork - INFO - Epoch 75
+2024-11-16 20:36:53,369 - BaseNetwork - INFO - Epoch 76, Loss: 1078436918.857143
+2024-11-16 20:36:53,370 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:53,370 - BaseNetwork - INFO - Epoch 76
+2024-11-16 20:36:54,607 - BaseNetwork - INFO - Epoch 77, Loss: 1078135128.8163266
+2024-11-16 20:36:54,608 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:54,609 - BaseNetwork - INFO - Epoch 77
+2024-11-16 20:36:55,681 - BaseNetwork - INFO - Epoch 78, Loss: 1077834846.0408163
+2024-11-16 20:36:55,681 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:55,682 - BaseNetwork - INFO - Epoch 78
+2024-11-16 20:36:56,810 - BaseNetwork - INFO - Epoch 79, Loss: 1077536087.510204
+2024-11-16 20:36:56,810 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:56,811 - BaseNetwork - INFO - Epoch 79
+2024-11-16 20:36:57,995 - BaseNetwork - INFO - Epoch 80, Loss: 1077238810.122449
+2024-11-16 20:36:57,995 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:57,996 - BaseNetwork - INFO - Epoch 80
+2024-11-16 20:36:59,072 - BaseNetwork - INFO - Epoch 81, Loss: 1076943034.7755103
+2024-11-16 20:36:59,073 - BaseNetwork - INFO - Validating...
+2024-11-16 20:36:59,073 - BaseNetwork - INFO - Epoch 81
+2024-11-16 20:37:00,221 - BaseNetwork - INFO - Epoch 82, Loss: 1076648717.0612245
+2024-11-16 20:37:00,221 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:00,221 - BaseNetwork - INFO - Epoch 82
+2024-11-16 20:37:01,310 - BaseNetwork - INFO - Epoch 83, Loss: 1076355927.510204
+2024-11-16 20:37:01,311 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:01,314 - BaseNetwork - INFO - Epoch 83
+2024-11-16 20:37:02,433 - BaseNetwork - INFO - Epoch 84, Loss: 1076064603.4285715
+2024-11-16 20:37:02,433 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:02,434 - BaseNetwork - INFO - Epoch 84
+2024-11-16 20:37:03,618 - BaseNetwork - INFO - Epoch 85, Loss: 1075774705.632653
+2024-11-16 20:37:03,619 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:03,619 - BaseNetwork - INFO - Epoch 85
+2024-11-16 20:37:04,727 - BaseNetwork - INFO - Epoch 86, Loss: 1075486291.5918367
+2024-11-16 20:37:04,728 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:04,728 - BaseNetwork - INFO - Epoch 86
+2024-11-16 20:37:05,818 - BaseNetwork - INFO - Epoch 87, Loss: 1075199336.489796
+2024-11-16 20:37:05,819 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:05,819 - BaseNetwork - INFO - Epoch 87
+2024-11-16 20:37:06,983 - BaseNetwork - INFO - Epoch 88, Loss: 1074913825.9591837
+2024-11-16 20:37:06,983 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:06,984 - BaseNetwork - INFO - Epoch 88
+2024-11-16 20:37:08,174 - BaseNetwork - INFO - Epoch 89, Loss: 1074629714.2857144
+2024-11-16 20:37:08,174 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:08,175 - BaseNetwork - INFO - Epoch 89
+2024-11-16 20:37:09,356 - BaseNetwork - INFO - Epoch 90, Loss: 1074347096.8163266
+2024-11-16 20:37:09,357 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:09,358 - BaseNetwork - INFO - Epoch 90
+2024-11-16 20:37:10,502 - BaseNetwork - INFO - Epoch 91, Loss: 1074065848.1632652
+2024-11-16 20:37:10,503 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:10,503 - BaseNetwork - INFO - Epoch 91
+2024-11-16 20:37:11,676 - BaseNetwork - INFO - Epoch 92, Loss: 1073786033.632653
+2024-11-16 20:37:11,676 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:11,676 - BaseNetwork - INFO - Epoch 92
+2024-11-16 20:37:12,824 - BaseNetwork - INFO - Epoch 93, Loss: 1073507597.0612245
+2024-11-16 20:37:12,824 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:12,825 - BaseNetwork - INFO - Epoch 93
+2024-11-16 20:37:14,006 - BaseNetwork - INFO - Epoch 94, Loss: 1073230603.755102
+2024-11-16 20:37:14,006 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:14,007 - BaseNetwork - INFO - Epoch 94
+2024-11-16 20:37:15,131 - BaseNetwork - INFO - Epoch 95, Loss: 1072954972.7346939
+2024-11-16 20:37:15,131 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:15,131 - BaseNetwork - INFO - Epoch 95
+2024-11-16 20:37:16,279 - BaseNetwork - INFO - Epoch 96, Loss: 1072680722.2857143
+2024-11-16 20:37:16,279 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:16,279 - BaseNetwork - INFO - Epoch 96
+2024-11-16 20:37:17,403 - BaseNetwork - INFO - Epoch 97, Loss: 1072407875.9183674
+2024-11-16 20:37:17,403 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:17,404 - BaseNetwork - INFO - Epoch 97
+2024-11-16 20:37:18,560 - BaseNetwork - INFO - Epoch 98, Loss: 1072136397.0612245
+2024-11-16 20:37:18,560 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:18,560 - BaseNetwork - INFO - Epoch 98
+2024-11-16 20:37:19,641 - BaseNetwork - INFO - Epoch 99, Loss: 1071866251.755102
+2024-11-16 20:37:19,642 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:19,642 - BaseNetwork - INFO - Epoch 99
+2024-11-16 20:37:21,041 - BaseNetwork - INFO - Epoch 100, Loss: 1071597487.0204082
+2024-11-16 20:37:21,041 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:21,042 - BaseNetwork - INFO - Epoch 100
+2024-11-16 20:37:22,296 - BaseNetwork - INFO - Epoch 101, Loss: 1071330070.2040817
+2024-11-16 20:37:22,296 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:22,297 - BaseNetwork - INFO - Epoch 101
+2024-11-16 20:37:23,783 - BaseNetwork - INFO - Epoch 102, Loss: 1071063966.0408163
+2024-11-16 20:37:23,784 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:23,784 - BaseNetwork - INFO - Epoch 102
+2024-11-16 20:37:25,305 - BaseNetwork - INFO - Epoch 103, Loss: 1070799238.5306122
+2024-11-16 20:37:25,306 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:25,306 - BaseNetwork - INFO - Epoch 103
+2024-11-16 20:37:26,565 - BaseNetwork - INFO - Epoch 104, Loss: 1070535831.5102041
+2024-11-16 20:37:26,565 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:26,566 - BaseNetwork - INFO - Epoch 104
+2024-11-16 20:37:27,623 - BaseNetwork - INFO - Epoch 105, Loss: 1070273712.3265306
+2024-11-16 20:37:27,624 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:27,624 - BaseNetwork - INFO - Epoch 105
+2024-11-16 20:37:28,761 - BaseNetwork - INFO - Epoch 106, Loss: 1070012950.2040817
+2024-11-16 20:37:28,762 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:28,762 - BaseNetwork - INFO - Epoch 106
+2024-11-16 20:37:30,019 - BaseNetwork - INFO - Epoch 107, Loss: 1069753475.9183674
+2024-11-16 20:37:30,020 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:30,020 - BaseNetwork - INFO - Epoch 107
+2024-11-16 20:37:31,086 - BaseNetwork - INFO - Epoch 108, Loss: 1069495286.8571428
+2024-11-16 20:37:31,087 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:31,087 - BaseNetwork - INFO - Epoch 108
+2024-11-16 20:37:32,284 - BaseNetwork - INFO - Epoch 109, Loss: 1069238414.3673469
+2024-11-16 20:37:32,284 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:32,284 - BaseNetwork - INFO - Epoch 109
+2024-11-16 20:37:33,502 - BaseNetwork - INFO - Epoch 110, Loss: 1068982827.1020408
+2024-11-16 20:37:33,503 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:33,503 - BaseNetwork - INFO - Epoch 110
+2024-11-16 20:37:34,648 - BaseNetwork - INFO - Epoch 111, Loss: 1068728531.5918367
+2024-11-16 20:37:34,649 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:34,649 - BaseNetwork - INFO - Epoch 111
+2024-11-16 20:37:35,875 - BaseNetwork - INFO - Epoch 112, Loss: 1068475478.2040817
+2024-11-16 20:37:35,876 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:35,876 - BaseNetwork - INFO - Epoch 112
+2024-11-16 20:37:37,017 - BaseNetwork - INFO - Epoch 113, Loss: 1068223732.244898
+2024-11-16 20:37:37,017 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:37,018 - BaseNetwork - INFO - Epoch 113
+2024-11-16 20:37:38,240 - BaseNetwork - INFO - Epoch 114, Loss: 1067973217.9591837
+2024-11-16 20:37:38,241 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:38,241 - BaseNetwork - INFO - Epoch 114
+2024-11-16 20:37:39,374 - BaseNetwork - INFO - Epoch 115, Loss: 1067702427.4285715
+2024-11-16 20:37:39,374 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:39,375 - BaseNetwork - INFO - Epoch 115
+2024-11-16 20:37:40,525 - BaseNetwork - INFO - Epoch 116, Loss: 1067424259.9183674
+2024-11-16 20:37:40,525 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:40,526 - BaseNetwork - INFO - Epoch 116
+2024-11-16 20:37:41,564 - BaseNetwork - INFO - Epoch 117, Loss: 1067144083.5918367
+2024-11-16 20:37:41,564 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:41,565 - BaseNetwork - INFO - Epoch 117
+2024-11-16 20:37:42,652 - BaseNetwork - INFO - Epoch 118, Loss: 1066865451.1020408
+2024-11-16 20:37:42,652 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:42,653 - BaseNetwork - INFO - Epoch 118
+2024-11-16 20:37:43,899 - BaseNetwork - INFO - Epoch 119, Loss: 1066588867.9183674
+2024-11-16 20:37:43,900 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:43,900 - BaseNetwork - INFO - Epoch 119
+2024-11-16 20:37:45,290 - BaseNetwork - INFO - Epoch 120, Loss: 1066314288.3265306
+2024-11-16 20:37:45,291 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:45,291 - BaseNetwork - INFO - Epoch 120
+2024-11-16 20:37:46,523 - BaseNetwork - INFO - Epoch 121, Loss: 1066041507.2653061
+2024-11-16 20:37:46,524 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:46,526 - BaseNetwork - INFO - Epoch 121
+2024-11-16 20:37:47,821 - BaseNetwork - INFO - Epoch 122, Loss: 1065770433.3061224
+2024-11-16 20:37:47,822 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:47,823 - BaseNetwork - INFO - Epoch 122
+2024-11-16 20:37:49,023 - BaseNetwork - INFO - Epoch 123, Loss: 1065500843.1020408
+2024-11-16 20:37:49,023 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:49,023 - BaseNetwork - INFO - Epoch 123
+2024-11-16 20:37:50,121 - BaseNetwork - INFO - Epoch 124, Loss: 1065232754.9387755
+2024-11-16 20:37:50,121 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:50,122 - BaseNetwork - INFO - Epoch 124
+2024-11-16 20:37:51,384 - BaseNetwork - INFO - Epoch 125, Loss: 1064966082.6122448
+2024-11-16 20:37:51,385 - BaseNetwork - INFO - Validating...
+2024-11-16 20:37:56,852 - BaseNetwork - INFO - Validation Loss: 859504679.9567567
+2024-11-16 20:38:30,475 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 20:38:31,665 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 20:38:31,665 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 20:38:31,669 - BaseNetwork - INFO - Epoch 0
+2024-11-16 20:43:09,781 - BaseNetwork - INFO - Epoch 1, Loss: 1101729938.2857144
+2024-11-16 20:43:09,782 - BaseNetwork - INFO - Validating...
+2024-11-16 20:43:09,784 - BaseNetwork - INFO - Epoch 1
+2024-11-16 20:47:26,403 - BaseNetwork - INFO - Epoch 2, Loss: 1093002267.4285715
+2024-11-16 20:47:26,405 - BaseNetwork - INFO - Validating...
+2024-11-16 20:47:26,407 - BaseNetwork - INFO - Epoch 2
+2024-11-16 20:51:50,702 - BaseNetwork - INFO - Epoch 3, Loss: 1084296833.3061225
+2024-11-16 20:51:50,703 - BaseNetwork - INFO - Validating...
+2024-11-16 20:52:31,194 - BaseNetwork - INFO - Validation Loss: 870495551.2092664
+2024-11-16 21:19:29,639 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 21:19:32,143 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 21:19:32,144 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 21:19:32,144 - BaseNetwork - INFO - Epoch 0
+2024-11-16 21:19:44,509 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 21:19:45,251 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 21:19:45,252 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 21:19:45,253 - BaseNetwork - INFO - Epoch 0
+2024-11-16 21:24:29,141 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 21:24:30,106 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 21:24:30,106 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 21:24:30,107 - BaseNetwork - INFO - Epoch 0
+2024-11-16 21:25:22,038 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 21:25:23,135 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 21:25:23,657 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 21:25:23,658 - BaseNetwork - INFO - Epoch 0
+2024-11-16 21:26:37,358 - BaseNetwork - INFO - Epoch 1, Loss: 1107463292.041237
+2024-11-16 21:26:37,358 - BaseNetwork - INFO - Validating...
+2024-11-16 21:26:37,360 - BaseNetwork - INFO - Epoch 1
+2024-11-16 21:27:51,999 - BaseNetwork - INFO - Epoch 2, Loss: 1106242388.4536083
+2024-11-16 21:27:51,999 - BaseNetwork - INFO - Validating...
+2024-11-16 21:27:52,001 - BaseNetwork - INFO - Epoch 2
+2024-11-16 21:29:04,105 - BaseNetwork - INFO - Epoch 3, Loss: 1105021315.298969
+2024-11-16 21:29:04,106 - BaseNetwork - INFO - Validating...
+2024-11-16 21:31:52,503 - BaseNetwork - INFO - Validation Loss: 893909221.4281099
+2024-11-16 21:32:12,652 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 21:32:13,100 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 21:32:13,100 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 21:32:13,101 - BaseNetwork - INFO - Epoch 0
+2024-11-16 21:35:50,792 - BaseNetwork - INFO - Epoch 1, Loss: 1098764449.2783506
+2024-11-16 21:35:50,793 - BaseNetwork - INFO - Validating...
+2024-11-16 21:35:50,793 - BaseNetwork - INFO - Epoch 1
+2024-11-16 21:39:27,486 - BaseNetwork - INFO - Epoch 2, Loss: 1080568810.969072
+2024-11-16 21:39:27,486 - BaseNetwork - INFO - Validating...
+2024-11-16 21:39:27,487 - BaseNetwork - INFO - Epoch 2
+2024-11-16 21:43:06,626 - BaseNetwork - INFO - Epoch 3, Loss: 1063237803.7113402
+2024-11-16 21:43:06,627 - BaseNetwork - INFO - Validating...
+2024-11-16 21:45:16,768 - BaseNetwork - INFO - Validation Loss: 849345627.8384491
+2024-11-16 21:45:52,518 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-16 21:45:53,111 - BaseNetwork - INFO - Model has been initialized
+2024-11-16 21:45:53,112 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-16 21:45:53,112 - BaseNetwork - INFO - Epoch 0
+2024-11-16 21:47:19,506 - BaseNetwork - INFO - Epoch 1, Loss: 1106788402.8041236
+2024-11-16 21:47:19,506 - BaseNetwork - INFO - Validating...
+2024-11-16 21:47:19,506 - BaseNetwork - INFO - Epoch 1
+2024-11-16 21:48:45,180 - BaseNetwork - INFO - Epoch 2, Loss: 1104337048.0824742
+2024-11-16 21:48:45,180 - BaseNetwork - INFO - Validating...
+2024-11-16 21:48:45,181 - BaseNetwork - INFO - Epoch 2
+2024-11-16 21:50:11,155 - BaseNetwork - INFO - Epoch 3, Loss: 1101917938.4742267
+2024-11-16 21:50:11,155 - BaseNetwork - INFO - Validating...
+2024-11-16 21:50:11,156 - BaseNetwork - INFO - Epoch 3
+2024-11-16 22:06:53,591 - BaseNetwork - INFO - Epoch 4, Loss: 1099518410.8865979
+2024-11-16 22:06:53,592 - BaseNetwork - INFO - Validating...
+2024-11-16 22:06:53,592 - BaseNetwork - INFO - Epoch 4
+2024-11-16 22:25:31,416 - BaseNetwork - INFO - Epoch 5, Loss: 1097135980.2061856
+2024-11-16 22:25:31,416 - BaseNetwork - INFO - Validating...
+2024-11-16 22:25:31,417 - BaseNetwork - INFO - Epoch 5
+2024-11-16 22:26:50,136 - BaseNetwork - INFO - Epoch 6, Loss: 1094770129.4845362
+2024-11-16 22:26:50,136 - BaseNetwork - INFO - Validating...
+2024-11-16 22:26:50,137 - BaseNetwork - INFO - Epoch 6
+2024-11-16 23:01:01,731 - BaseNetwork - INFO - Epoch 7, Loss: 1092420681.5670104
+2024-11-16 23:01:01,731 - BaseNetwork - INFO - Validating...
+2024-11-16 23:01:01,732 - BaseNetwork - INFO - Epoch 7
+2024-11-16 23:02:18,555 - BaseNetwork - INFO - Epoch 8, Loss: 1090087509.443299
+2024-11-16 23:02:18,555 - BaseNetwork - INFO - Validating...
+2024-11-16 23:02:18,555 - BaseNetwork - INFO - Epoch 8
+2024-11-16 23:19:12,705 - BaseNetwork - INFO - Epoch 9, Loss: 1087770455.4226804
+2024-11-16 23:19:12,706 - BaseNetwork - INFO - Validating...
+2024-11-16 23:19:12,706 - BaseNetwork - INFO - Epoch 9
+2024-11-16 23:20:29,859 - BaseNetwork - INFO - Epoch 10, Loss: 1085469437.030928
+2024-11-16 23:20:29,859 - BaseNetwork - INFO - Validating...
+2024-11-16 23:20:29,859 - BaseNetwork - INFO - Epoch 10
+2024-11-16 23:21:49,917 - BaseNetwork - INFO - Epoch 11, Loss: 1083184320.0
+2024-11-16 23:21:49,917 - BaseNetwork - INFO - Validating...
+2024-11-16 23:21:49,918 - BaseNetwork - INFO - Epoch 11
+2024-11-16 23:39:59,871 - BaseNetwork - INFO - Epoch 12, Loss: 1080914970.7216494
+2024-11-16 23:39:59,872 - BaseNetwork - INFO - Validating...
+2024-11-16 23:39:59,872 - BaseNetwork - INFO - Epoch 12
+2024-11-16 23:52:12,013 - BaseNetwork - INFO - Epoch 13, Loss: 1078661267.7938144
+2024-11-16 23:52:12,014 - BaseNetwork - INFO - Validating...
+2024-11-16 23:52:12,015 - BaseNetwork - INFO - Epoch 13
+2024-11-17 00:09:21,827 - BaseNetwork - INFO - Epoch 14, Loss: 1076423101.3608248
+2024-11-17 00:09:21,829 - BaseNetwork - INFO - Validating...
+2024-11-17 00:09:21,829 - BaseNetwork - INFO - Epoch 14
+2024-11-17 00:10:39,219 - BaseNetwork - INFO - Epoch 15, Loss: 1074200351.0103092
+2024-11-17 00:10:39,220 - BaseNetwork - INFO - Validating...
+2024-11-17 00:10:39,220 - BaseNetwork - INFO - Epoch 15
+2024-11-17 00:26:59,288 - BaseNetwork - INFO - Epoch 16, Loss: 1071992877.8556701
+2024-11-17 00:26:59,289 - BaseNetwork - INFO - Validating...
+2024-11-17 00:26:59,289 - BaseNetwork - INFO - Epoch 16
+2024-11-17 00:28:17,460 - BaseNetwork - INFO - Epoch 17, Loss: 1069800590.8453609
+2024-11-17 00:28:17,460 - BaseNetwork - INFO - Validating...
+2024-11-17 00:28:17,461 - BaseNetwork - INFO - Epoch 17
+2024-11-17 00:44:59,021 - BaseNetwork - INFO - Epoch 18, Loss: 1067623381.113402
+2024-11-17 00:44:59,022 - BaseNetwork - INFO - Validating...
+2024-11-17 00:44:59,022 - BaseNetwork - INFO - Epoch 18
+2024-11-17 00:46:17,557 - BaseNetwork - INFO - Epoch 19, Loss: 1065461112.0824742
+2024-11-17 00:46:17,557 - BaseNetwork - INFO - Validating...
+2024-11-17 00:46:17,558 - BaseNetwork - INFO - Epoch 19
+2024-11-17 00:47:38,764 - BaseNetwork - INFO - Epoch 20, Loss: 1063313673.2371134
+2024-11-17 00:47:38,765 - BaseNetwork - INFO - Validating...
+2024-11-17 00:47:38,765 - BaseNetwork - INFO - Epoch 20
+2024-11-17 00:53:32,856 - BaseNetwork - INFO - Epoch 21, Loss: 1061180984.7422681
+2024-11-17 00:53:32,857 - BaseNetwork - INFO - Validating...
+2024-11-17 00:53:32,857 - BaseNetwork - INFO - Epoch 21
+2024-11-17 00:54:50,555 - BaseNetwork - INFO - Epoch 22, Loss: 1059062885.9381443
+2024-11-17 00:54:50,555 - BaseNetwork - INFO - Validating...
+2024-11-17 00:54:50,556 - BaseNetwork - INFO - Epoch 22
+2024-11-17 01:11:08,675 - BaseNetwork - INFO - Epoch 23, Loss: 1056959270.9278351
+2024-11-17 01:11:08,675 - BaseNetwork - INFO - Validating...
+2024-11-17 01:11:08,676 - BaseNetwork - INFO - Epoch 23
+2024-11-17 01:12:27,146 - BaseNetwork - INFO - Epoch 24, Loss: 1054870059.8762887
+2024-11-17 01:12:27,147 - BaseNetwork - INFO - Validating...
+2024-11-17 01:12:27,147 - BaseNetwork - INFO - Epoch 24
+2024-11-17 01:28:44,098 - BaseNetwork - INFO - Epoch 25, Loss: 1052795142.5979382
+2024-11-17 01:28:44,099 - BaseNetwork - INFO - Validating...
+2024-11-17 12:03:28,491 - BaseNetwork - INFO - Validation Loss: 846554309.647819
+2024-11-17 12:28:11,333 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:28:37,461 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:28:38,104 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:28:38,573 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:28:38,573 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:29:10,457 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:29:11,245 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:29:11,593 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:29:11,593 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:29:35,841 - BaseNetwork - INFO - Epoch 1, Loss: 1106801928.9072165
+2024-11-17 12:29:35,841 - BaseNetwork - INFO - Validating...
+2024-11-17 12:29:35,841 - BaseNetwork - INFO - Epoch 1
+2024-11-17 12:30:01,088 - BaseNetwork - INFO - Epoch 2, Loss: 1104361063.257732
+2024-11-17 12:30:01,088 - BaseNetwork - INFO - Validating...
+2024-11-17 12:30:01,088 - BaseNetwork - INFO - Epoch 2
+2024-11-17 12:30:27,483 - BaseNetwork - INFO - Epoch 3, Loss: 1101943509.773196
+2024-11-17 12:30:27,484 - BaseNetwork - INFO - Validating...
+2024-11-17 12:30:27,484 - BaseNetwork - INFO - Epoch 3
+2024-11-17 12:30:53,058 - BaseNetwork - INFO - Epoch 4, Loss: 1099544072.5773196
+2024-11-17 12:30:53,058 - BaseNetwork - INFO - Validating...
+2024-11-17 12:30:53,058 - BaseNetwork - INFO - Epoch 4
+2024-11-17 12:31:19,487 - BaseNetwork - INFO - Epoch 5, Loss: 1097161512.2474227
+2024-11-17 12:31:19,488 - BaseNetwork - INFO - Validating...
+2024-11-17 12:31:19,488 - BaseNetwork - INFO - Epoch 5
+2024-11-17 12:31:47,370 - BaseNetwork - INFO - Epoch 6, Loss: 1094795501.5257733
+2024-11-17 12:31:47,370 - BaseNetwork - INFO - Validating...
+2024-11-17 12:31:47,371 - BaseNetwork - INFO - Epoch 6
+2024-11-17 12:32:31,249 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:32:34,164 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:32:34,499 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:32:34,499 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:32:55,544 - BaseNetwork - INFO - Epoch 1, Loss: 1106796487.9175258
+2024-11-17 12:32:55,544 - BaseNetwork - INFO - Validating...
+2024-11-17 12:32:55,545 - BaseNetwork - INFO - Epoch 1
+2024-11-17 12:33:15,041 - BaseNetwork - INFO - Epoch 2, Loss: 1104356477.6907218
+2024-11-17 12:33:15,041 - BaseNetwork - INFO - Validating...
+2024-11-17 12:33:15,042 - BaseNetwork - INFO - Epoch 2
+2024-11-17 12:33:36,344 - BaseNetwork - INFO - Epoch 3, Loss: 1101939077.2783506
+2024-11-17 12:33:36,345 - BaseNetwork - INFO - Validating...
+2024-11-17 12:33:36,345 - BaseNetwork - INFO - Epoch 3
+2024-11-17 12:33:59,367 - BaseNetwork - INFO - Epoch 4, Loss: 1099539684.9484537
+2024-11-17 12:33:59,367 - BaseNetwork - INFO - Validating...
+2024-11-17 12:33:59,367 - BaseNetwork - INFO - Epoch 4
+2024-11-17 12:34:24,567 - BaseNetwork - INFO - Epoch 5, Loss: 1097157146.0618556
+2024-11-17 12:34:24,567 - BaseNetwork - INFO - Validating...
+2024-11-17 12:34:24,567 - BaseNetwork - INFO - Epoch 5
+2024-11-17 12:34:48,476 - BaseNetwork - INFO - Epoch 6, Loss: 1094791158.7628865
+2024-11-17 12:34:48,476 - BaseNetwork - INFO - Validating...
+2024-11-17 12:34:48,476 - BaseNetwork - INFO - Epoch 6
+2024-11-17 12:35:46,945 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:35:47,710 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:35:47,711 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:35:47,711 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:35:49,571 - BaseNetwork - INFO - Epoch 1, Loss: 1105481446.071795
+2024-11-17 12:35:49,571 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:49,572 - BaseNetwork - INFO - Epoch 1
+2024-11-17 12:35:51,278 - BaseNetwork - INFO - Epoch 2, Loss: 1103031855.5897436
+2024-11-17 12:35:51,278 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:51,279 - BaseNetwork - INFO - Epoch 2
+2024-11-17 12:35:52,969 - BaseNetwork - INFO - Epoch 3, Loss: 1100603760.2461538
+2024-11-17 12:35:52,969 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:52,970 - BaseNetwork - INFO - Epoch 3
+2024-11-17 12:35:54,729 - BaseNetwork - INFO - Epoch 4, Loss: 1098193789.374359
+2024-11-17 12:35:54,729 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:54,729 - BaseNetwork - INFO - Epoch 4
+2024-11-17 12:35:56,441 - BaseNetwork - INFO - Epoch 5, Loss: 1095800830.6871796
+2024-11-17 12:35:56,441 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:56,441 - BaseNetwork - INFO - Epoch 5
+2024-11-17 12:35:58,124 - BaseNetwork - INFO - Epoch 6, Loss: 1093424574.3589745
+2024-11-17 12:35:58,125 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:58,125 - BaseNetwork - INFO - Epoch 6
+2024-11-17 12:35:59,847 - BaseNetwork - INFO - Epoch 7, Loss: 1091064881.5589743
+2024-11-17 12:35:59,847 - BaseNetwork - INFO - Validating...
+2024-11-17 12:35:59,847 - BaseNetwork - INFO - Epoch 7
+2024-11-17 12:36:01,554 - BaseNetwork - INFO - Epoch 8, Loss: 1088721604.9230769
+2024-11-17 12:36:01,555 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:01,555 - BaseNetwork - INFO - Epoch 8
+2024-11-17 12:36:03,292 - BaseNetwork - INFO - Epoch 9, Loss: 1086394622.0307693
+2024-11-17 12:36:03,293 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:03,293 - BaseNetwork - INFO - Epoch 9
+2024-11-17 12:36:04,981 - BaseNetwork - INFO - Epoch 10, Loss: 1084083825.8871794
+2024-11-17 12:36:04,982 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:04,982 - BaseNetwork - INFO - Epoch 10
+2024-11-17 12:36:06,662 - BaseNetwork - INFO - Epoch 11, Loss: 1081789050.420513
+2024-11-17 12:36:06,662 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:06,662 - BaseNetwork - INFO - Epoch 11
+2024-11-17 12:36:08,397 - BaseNetwork - INFO - Epoch 12, Loss: 1079510202.748718
+2024-11-17 12:36:08,397 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:08,397 - BaseNetwork - INFO - Epoch 12
+2024-11-17 12:36:10,102 - BaseNetwork - INFO - Epoch 13, Loss: 1077247152.902564
+2024-11-17 12:36:10,103 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:10,103 - BaseNetwork - INFO - Epoch 13
+2024-11-17 12:36:11,781 - BaseNetwork - INFO - Epoch 14, Loss: 1074999786.0102565
+2024-11-17 12:36:11,781 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:11,781 - BaseNetwork - INFO - Epoch 14
+2024-11-17 12:36:13,692 - BaseNetwork - INFO - Epoch 15, Loss: 1072767959.6307693
+2024-11-17 12:36:13,692 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:13,692 - BaseNetwork - INFO - Epoch 15
+2024-11-17 12:36:15,416 - BaseNetwork - INFO - Epoch 16, Loss: 1070551600.902564
+2024-11-17 12:36:15,417 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:15,417 - BaseNetwork - INFO - Epoch 16
+2024-11-17 12:36:17,141 - BaseNetwork - INFO - Epoch 17, Loss: 1068350561.4769231
+2024-11-17 12:36:17,141 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:17,142 - BaseNetwork - INFO - Epoch 17
+2024-11-17 12:36:18,923 - BaseNetwork - INFO - Epoch 18, Loss: 1066164735.3435898
+2024-11-17 12:36:18,923 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:18,924 - BaseNetwork - INFO - Epoch 18
+2024-11-17 12:36:20,685 - BaseNetwork - INFO - Epoch 19, Loss: 1063993988.9230769
+2024-11-17 12:36:20,685 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:20,686 - BaseNetwork - INFO - Epoch 19
+2024-11-17 12:36:22,393 - BaseNetwork - INFO - Epoch 20, Loss: 1061838186.0102564
+2024-11-17 12:36:22,394 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:22,394 - BaseNetwork - INFO - Epoch 20
+2024-11-17 12:36:24,090 - BaseNetwork - INFO - Epoch 21, Loss: 1059697246.851282
+2024-11-17 12:36:24,090 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:24,091 - BaseNetwork - INFO - Epoch 21
+2024-11-17 12:36:26,009 - BaseNetwork - INFO - Epoch 22, Loss: 1057571042.4615384
+2024-11-17 12:36:26,009 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:26,010 - BaseNetwork - INFO - Epoch 22
+2024-11-17 12:36:27,751 - BaseNetwork - INFO - Epoch 23, Loss: 1055459478.3179487
+2024-11-17 12:36:27,751 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:27,752 - BaseNetwork - INFO - Epoch 23
+2024-11-17 12:36:29,540 - BaseNetwork - INFO - Epoch 24, Loss: 1053362449.7230769
+2024-11-17 12:36:29,540 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:29,540 - BaseNetwork - INFO - Epoch 24
+2024-11-17 12:36:31,273 - BaseNetwork - INFO - Epoch 25, Loss: 1051279808.3282051
+2024-11-17 12:36:31,273 - BaseNetwork - INFO - Validating...
+2024-11-17 12:36:33,647 - BaseNetwork - INFO - Validation Loss: 845496356.7253252
+2024-11-17 12:40:07,732 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:41:26,422 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:41:27,159 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:41:27,499 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:41:27,499 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:42:28,138 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:42:28,848 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:42:29,171 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:42:29,171 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:43:22,509 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:43:23,050 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:43:23,371 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:43:23,371 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:44:22,468 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:44:24,418 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:44:24,774 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:44:24,774 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:44:26,608 - BaseNetwork - INFO - Epoch 1, Loss: 32479.23094951923
+2024-11-17 12:44:26,609 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:26,609 - BaseNetwork - INFO - Epoch 1
+2024-11-17 12:44:28,298 - BaseNetwork - INFO - Epoch 2, Loss: 32456.00882411859
+2024-11-17 12:44:28,299 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:28,299 - BaseNetwork - INFO - Epoch 2
+2024-11-17 12:44:30,008 - BaseNetwork - INFO - Epoch 3, Loss: 32433.50108173077
+2024-11-17 12:44:30,008 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:30,009 - BaseNetwork - INFO - Epoch 3
+2024-11-17 12:44:31,729 - BaseNetwork - INFO - Epoch 4, Loss: 32411.941796875
+2024-11-17 12:44:31,729 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:31,729 - BaseNetwork - INFO - Epoch 4
+2024-11-17 12:44:33,449 - BaseNetwork - INFO - Epoch 5, Loss: 32391.63069911859
+2024-11-17 12:44:33,449 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:33,449 - BaseNetwork - INFO - Epoch 5
+2024-11-17 12:44:35,161 - BaseNetwork - INFO - Epoch 6, Loss: 32372.487049278847
+2024-11-17 12:44:35,162 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:35,162 - BaseNetwork - INFO - Epoch 6
+2024-11-17 12:44:36,972 - BaseNetwork - INFO - Epoch 7, Loss: 32354.433463541667
+2024-11-17 12:44:36,973 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:36,973 - BaseNetwork - INFO - Epoch 7
+2024-11-17 12:44:38,720 - BaseNetwork - INFO - Epoch 8, Loss: 32337.405488782053
+2024-11-17 12:44:38,720 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:38,721 - BaseNetwork - INFO - Epoch 8
+2024-11-17 12:44:40,538 - BaseNetwork - INFO - Epoch 9, Loss: 32321.345482772434
+2024-11-17 12:44:40,539 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:40,539 - BaseNetwork - INFO - Epoch 9
+2024-11-17 12:44:42,279 - BaseNetwork - INFO - Epoch 10, Loss: 32306.199969951922
+2024-11-17 12:44:42,280 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:42,280 - BaseNetwork - INFO - Epoch 10
+2024-11-17 12:44:43,981 - BaseNetwork - INFO - Epoch 11, Loss: 32291.914723557693
+2024-11-17 12:44:43,982 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:43,982 - BaseNetwork - INFO - Epoch 11
+2024-11-17 12:44:45,729 - BaseNetwork - INFO - Epoch 12, Loss: 32278.441596554487
+2024-11-17 12:44:45,730 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:45,730 - BaseNetwork - INFO - Epoch 12
+2024-11-17 12:44:47,449 - BaseNetwork - INFO - Epoch 13, Loss: 32265.734815705127
+2024-11-17 12:44:47,449 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:47,449 - BaseNetwork - INFO - Epoch 13
+2024-11-17 12:44:49,164 - BaseNetwork - INFO - Epoch 14, Loss: 32253.74951923077
+2024-11-17 12:44:49,164 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:49,165 - BaseNetwork - INFO - Epoch 14
+2024-11-17 12:44:50,931 - BaseNetwork - INFO - Epoch 15, Loss: 32242.445552884616
+2024-11-17 12:44:50,931 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:50,931 - BaseNetwork - INFO - Epoch 15
+2024-11-17 12:44:52,638 - BaseNetwork - INFO - Epoch 16, Loss: 32231.78357371795
+2024-11-17 12:44:52,638 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:52,638 - BaseNetwork - INFO - Epoch 16
+2024-11-17 12:44:54,244 - BaseNetwork - INFO - Epoch 17, Loss: 32221.728004807694
+2024-11-17 12:44:54,245 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:54,245 - BaseNetwork - INFO - Epoch 17
+2024-11-17 12:44:56,041 - BaseNetwork - INFO - Epoch 18, Loss: 32212.243649839744
+2024-11-17 12:44:56,041 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:56,041 - BaseNetwork - INFO - Epoch 18
+2024-11-17 12:44:57,756 - BaseNetwork - INFO - Epoch 19, Loss: 32203.297966746795
+2024-11-17 12:44:57,756 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:57,756 - BaseNetwork - INFO - Epoch 19
+2024-11-17 12:44:59,479 - BaseNetwork - INFO - Epoch 20, Loss: 32194.86114783654
+2024-11-17 12:44:59,479 - BaseNetwork - INFO - Validating...
+2024-11-17 12:44:59,479 - BaseNetwork - INFO - Epoch 20
+2024-11-17 12:45:01,177 - BaseNetwork - INFO - Epoch 21, Loss: 32186.903966346155
+2024-11-17 12:45:01,178 - BaseNetwork - INFO - Validating...
+2024-11-17 12:45:01,178 - BaseNetwork - INFO - Epoch 21
+2024-11-17 12:45:02,898 - BaseNetwork - INFO - Epoch 22, Loss: 32177.59469150641
+2024-11-17 12:45:02,898 - BaseNetwork - INFO - Validating...
+2024-11-17 12:45:02,899 - BaseNetwork - INFO - Epoch 22
+2024-11-17 12:45:04,633 - BaseNetwork - INFO - Epoch 23, Loss: 32163.25016025641
+2024-11-17 12:45:04,634 - BaseNetwork - INFO - Validating...
+2024-11-17 12:45:04,634 - BaseNetwork - INFO - Epoch 23
+2024-11-17 12:45:06,381 - BaseNetwork - INFO - Epoch 24, Loss: 32149.52642227564
+2024-11-17 12:45:06,382 - BaseNetwork - INFO - Validating...
+2024-11-17 12:45:06,382 - BaseNetwork - INFO - Epoch 24
+2024-11-17 12:45:08,118 - BaseNetwork - INFO - Epoch 25, Loss: 32136.72988782051
+2024-11-17 12:45:08,118 - BaseNetwork - INFO - Validating...
+2024-11-17 12:45:08,837 - BaseNetwork - INFO - Validation Loss: 875243329.8362663
+2024-11-17 12:45:56,809 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:45:57,455 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:45:57,455 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:45:57,456 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:46:05,581 - BaseNetwork - INFO - Epoch 1, Loss: 32428.372405849357
+2024-11-17 12:46:05,581 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:05,581 - BaseNetwork - INFO - Epoch 1
+2024-11-17 12:46:13,666 - BaseNetwork - INFO - Epoch 2, Loss: 32308.96319110577
+2024-11-17 12:46:13,667 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:13,667 - BaseNetwork - INFO - Epoch 2
+2024-11-17 12:46:21,811 - BaseNetwork - INFO - Epoch 3, Loss: 32209.97688301282
+2024-11-17 12:46:21,811 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:21,811 - BaseNetwork - INFO - Epoch 3
+2024-11-17 12:46:29,996 - BaseNetwork - INFO - Epoch 4, Loss: 32128.617047275642
+2024-11-17 12:46:29,996 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:29,996 - BaseNetwork - INFO - Epoch 4
+2024-11-17 12:46:38,125 - BaseNetwork - INFO - Epoch 5, Loss: 32061.694381009616
+2024-11-17 12:46:38,126 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:38,126 - BaseNetwork - INFO - Epoch 5
+2024-11-17 12:46:46,518 - BaseNetwork - INFO - Epoch 6, Loss: 32006.63837139423
+2024-11-17 12:46:46,518 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:46,518 - BaseNetwork - INFO - Epoch 6
+2024-11-17 12:46:54,726 - BaseNetwork - INFO - Epoch 7, Loss: 31961.344441105768
+2024-11-17 12:46:54,727 - BaseNetwork - INFO - Validating...
+2024-11-17 12:46:54,727 - BaseNetwork - INFO - Epoch 7
+2024-11-17 12:47:02,929 - BaseNetwork - INFO - Epoch 8, Loss: 31924.074078525642
+2024-11-17 12:47:02,930 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:02,930 - BaseNetwork - INFO - Epoch 8
+2024-11-17 12:47:11,046 - BaseNetwork - INFO - Epoch 9, Loss: 31893.407942708334
+2024-11-17 12:47:11,046 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:11,046 - BaseNetwork - INFO - Epoch 9
+2024-11-17 12:47:19,174 - BaseNetwork - INFO - Epoch 10, Loss: 31868.176993189103
+2024-11-17 12:47:19,174 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:19,174 - BaseNetwork - INFO - Epoch 10
+2024-11-17 12:47:27,322 - BaseNetwork - INFO - Epoch 11, Loss: 31847.418259214744
+2024-11-17 12:47:27,322 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:27,323 - BaseNetwork - INFO - Epoch 11
+2024-11-17 12:47:35,392 - BaseNetwork - INFO - Epoch 12, Loss: 31830.33876201923
+2024-11-17 12:47:35,392 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:35,392 - BaseNetwork - INFO - Epoch 12
+2024-11-17 12:47:43,550 - BaseNetwork - INFO - Epoch 13, Loss: 31816.28673878205
+2024-11-17 12:47:43,550 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:43,551 - BaseNetwork - INFO - Epoch 13
+2024-11-17 12:47:51,687 - BaseNetwork - INFO - Epoch 14, Loss: 31804.725020032052
+2024-11-17 12:47:51,688 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:51,688 - BaseNetwork - INFO - Epoch 14
+2024-11-17 12:47:59,784 - BaseNetwork - INFO - Epoch 15, Loss: 31795.212860576925
+2024-11-17 12:47:59,784 - BaseNetwork - INFO - Validating...
+2024-11-17 12:47:59,784 - BaseNetwork - INFO - Epoch 15
+2024-11-17 12:48:07,881 - BaseNetwork - INFO - Epoch 16, Loss: 31787.38634815705
+2024-11-17 12:48:07,881 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:07,882 - BaseNetwork - INFO - Epoch 16
+2024-11-17 12:48:15,979 - BaseNetwork - INFO - Epoch 17, Loss: 31780.947666266027
+2024-11-17 12:48:15,979 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:15,979 - BaseNetwork - INFO - Epoch 17
+2024-11-17 12:48:24,182 - BaseNetwork - INFO - Epoch 18, Loss: 31775.64946915064
+2024-11-17 12:48:24,182 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:24,183 - BaseNetwork - INFO - Epoch 18
+2024-11-17 12:48:32,614 - BaseNetwork - INFO - Epoch 19, Loss: 31771.29055488782
+2024-11-17 12:48:32,614 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:32,615 - BaseNetwork - INFO - Epoch 19
+2024-11-17 12:48:41,087 - BaseNetwork - INFO - Epoch 20, Loss: 31767.704096554487
+2024-11-17 12:48:41,088 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:41,088 - BaseNetwork - INFO - Epoch 20
+2024-11-17 12:48:49,426 - BaseNetwork - INFO - Epoch 21, Loss: 31764.753665865384
+2024-11-17 12:48:49,427 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:49,427 - BaseNetwork - INFO - Epoch 21
+2024-11-17 12:48:57,587 - BaseNetwork - INFO - Epoch 22, Loss: 31762.326071714742
+2024-11-17 12:48:57,588 - BaseNetwork - INFO - Validating...
+2024-11-17 12:48:57,588 - BaseNetwork - INFO - Epoch 22
+2024-11-17 12:49:05,756 - BaseNetwork - INFO - Epoch 23, Loss: 31760.3284755609
+2024-11-17 12:49:05,756 - BaseNetwork - INFO - Validating...
+2024-11-17 12:49:05,756 - BaseNetwork - INFO - Epoch 23
+2024-11-17 12:49:13,917 - BaseNetwork - INFO - Epoch 24, Loss: 31758.685216346155
+2024-11-17 12:49:13,918 - BaseNetwork - INFO - Validating...
+2024-11-17 12:49:13,918 - BaseNetwork - INFO - Epoch 24
+2024-11-17 12:49:22,305 - BaseNetwork - INFO - Epoch 25, Loss: 31757.333333333332
+2024-11-17 12:49:22,306 - BaseNetwork - INFO - Validating...
+2024-11-17 12:49:27,290 - BaseNetwork - INFO - Validation Loss: 851813710.0185759
+2024-11-17 12:51:33,381 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:51:35,073 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:51:35,461 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:51:35,462 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:51:50,203 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 12:51:50,521 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 12:51:50,849 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 12:51:50,849 - BaseNetwork - INFO - Epoch 0
+2024-11-17 12:52:04,797 - BaseNetwork - INFO - Epoch 1, Loss: 18402.53944561298
+2024-11-17 12:52:04,797 - BaseNetwork - INFO - Validating...
+2024-11-17 12:52:04,798 - BaseNetwork - INFO - Epoch 1
+2024-11-17 12:52:18,796 - BaseNetwork - INFO - Epoch 2, Loss: 6635.727145933493
+2024-11-17 12:52:18,796 - BaseNetwork - INFO - Validating...
+2024-11-17 12:52:18,796 - BaseNetwork - INFO - Epoch 2
+2024-11-17 12:52:32,819 - BaseNetwork - INFO - Epoch 3, Loss: 6474.810396634615
+2024-11-17 12:52:32,819 - BaseNetwork - INFO - Validating...
+2024-11-17 12:52:32,820 - BaseNetwork - INFO - Epoch 3
+2024-11-17 12:52:46,798 - BaseNetwork - INFO - Epoch 4, Loss: 6164.7376352163465
+2024-11-17 12:52:46,799 - BaseNetwork - INFO - Validating...
+2024-11-17 12:52:46,799 - BaseNetwork - INFO - Epoch 4
+2024-11-17 12:53:00,785 - BaseNetwork - INFO - Epoch 5, Loss: 5961.928210136218
+2024-11-17 12:53:00,785 - BaseNetwork - INFO - Validating...
+2024-11-17 12:53:00,786 - BaseNetwork - INFO - Epoch 5
+2024-11-17 12:53:14,741 - BaseNetwork - INFO - Epoch 6, Loss: 5941.893805088141
+2024-11-17 12:53:14,741 - BaseNetwork - INFO - Validating...
+2024-11-17 12:53:14,742 - BaseNetwork - INFO - Epoch 6
+2024-11-17 12:53:28,693 - BaseNetwork - INFO - Epoch 7, Loss: 5943.225868890225
+2024-11-17 12:53:28,693 - BaseNetwork - INFO - Validating...
+2024-11-17 12:53:28,693 - BaseNetwork - INFO - Epoch 7
+2024-11-17 12:53:42,724 - BaseNetwork - INFO - Epoch 8, Loss: 5926.165750200321
+2024-11-17 12:53:42,724 - BaseNetwork - INFO - Validating...
+2024-11-17 12:53:42,724 - BaseNetwork - INFO - Epoch 8
+2024-11-17 12:53:56,619 - BaseNetwork - INFO - Epoch 9, Loss: 5915.593905248397
+2024-11-17 12:53:56,620 - BaseNetwork - INFO - Validating...
+2024-11-17 12:53:56,620 - BaseNetwork - INFO - Epoch 9
+2024-11-17 12:54:10,596 - BaseNetwork - INFO - Epoch 10, Loss: 5910.556725761218
+2024-11-17 12:54:10,596 - BaseNetwork - INFO - Validating...
+2024-11-17 12:54:10,596 - BaseNetwork - INFO - Epoch 10
+2024-11-17 12:54:24,613 - BaseNetwork - INFO - Epoch 11, Loss: 5893.136979166667
+2024-11-17 12:54:24,613 - BaseNetwork - INFO - Validating...
+2024-11-17 12:54:24,613 - BaseNetwork - INFO - Epoch 11
+2024-11-17 12:54:38,577 - BaseNetwork - INFO - Epoch 12, Loss: 5921.58293770032
+2024-11-17 12:54:38,577 - BaseNetwork - INFO - Validating...
+2024-11-17 12:54:38,577 - BaseNetwork - INFO - Epoch 12
+2024-11-17 12:54:52,627 - BaseNetwork - INFO - Epoch 13, Loss: 5890.823254707532
+2024-11-17 12:54:52,628 - BaseNetwork - INFO - Validating...
+2024-11-17 12:54:52,628 - BaseNetwork - INFO - Epoch 13
+2024-11-17 12:55:06,519 - BaseNetwork - INFO - Epoch 14, Loss: 5899.346078725962
+2024-11-17 12:55:06,519 - BaseNetwork - INFO - Validating...
+2024-11-17 12:55:06,519 - BaseNetwork - INFO - Epoch 14
+2024-11-17 12:55:20,506 - BaseNetwork - INFO - Epoch 15, Loss: 5902.251509915865
+2024-11-17 12:55:20,506 - BaseNetwork - INFO - Validating...
+2024-11-17 12:55:20,507 - BaseNetwork - INFO - Epoch 15
+2024-11-17 12:55:34,436 - BaseNetwork - INFO - Epoch 16, Loss: 5889.302731870994
+2024-11-17 12:55:34,436 - BaseNetwork - INFO - Validating...
+2024-11-17 12:55:34,436 - BaseNetwork - INFO - Epoch 16
+2024-11-17 12:55:48,456 - BaseNetwork - INFO - Epoch 17, Loss: 5904.9415740184295
+2024-11-17 12:55:48,456 - BaseNetwork - INFO - Validating...
+2024-11-17 12:55:48,456 - BaseNetwork - INFO - Epoch 17
+2024-11-17 12:56:02,918 - BaseNetwork - INFO - Epoch 18, Loss: 5907.84937900641
+2024-11-17 12:56:02,918 - BaseNetwork - INFO - Validating...
+2024-11-17 12:56:02,919 - BaseNetwork - INFO - Epoch 18
+2024-11-17 12:56:16,911 - BaseNetwork - INFO - Epoch 19, Loss: 5944.7094776642625
+2024-11-17 12:56:16,911 - BaseNetwork - INFO - Validating...
+2024-11-17 12:56:16,912 - BaseNetwork - INFO - Epoch 19
+2024-11-17 12:56:30,830 - BaseNetwork - INFO - Epoch 20, Loss: 5925.0904897836535
+2024-11-17 12:56:30,830 - BaseNetwork - INFO - Validating...
+2024-11-17 12:56:30,830 - BaseNetwork - INFO - Epoch 20
+2024-11-17 12:56:44,953 - BaseNetwork - INFO - Epoch 21, Loss: 5920.020873397436
+2024-11-17 12:56:44,953 - BaseNetwork - INFO - Validating...
+2024-11-17 12:56:44,954 - BaseNetwork - INFO - Epoch 21
+2024-11-17 12:56:58,881 - BaseNetwork - INFO - Epoch 22, Loss: 5917.353931290064
+2024-11-17 12:56:58,881 - BaseNetwork - INFO - Validating...
+2024-11-17 12:56:58,882 - BaseNetwork - INFO - Epoch 22
+2024-11-17 12:57:12,797 - BaseNetwork - INFO - Epoch 23, Loss: 5883.152093349359
+2024-11-17 12:57:12,798 - BaseNetwork - INFO - Validating...
+2024-11-17 12:57:12,798 - BaseNetwork - INFO - Epoch 23
+2024-11-17 12:57:26,727 - BaseNetwork - INFO - Epoch 24, Loss: 5913.834607872596
+2024-11-17 12:57:26,728 - BaseNetwork - INFO - Validating...
+2024-11-17 12:57:26,728 - BaseNetwork - INFO - Epoch 24
+2024-11-17 12:57:40,614 - BaseNetwork - INFO - Epoch 25, Loss: 5921.221444310898
+2024-11-17 12:57:40,615 - BaseNetwork - INFO - Validating...
+2024-11-17 12:59:54,896 - BaseNetwork - INFO - Validation Loss: 42826263.76141085
+2024-11-17 13:00:33,005 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 13:00:37,224 - BaseNetwork - INFO - Validation Loss: 42737834.49360521
+2024-11-17 13:01:27,635 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 13:01:33,976 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 13:01:38,710 - BaseNetwork - INFO - Validation Loss: 42826263.76141085
+2024-11-17 13:04:55,607 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 13:04:56,346 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 13:04:56,346 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 13:04:56,347 - BaseNetwork - INFO - Epoch 0
+2024-11-17 13:05:06,407 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 13:05:07,182 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 13:05:07,182 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 13:05:07,182 - BaseNetwork - INFO - Epoch 0
+2024-11-17 13:05:21,152 - BaseNetwork - INFO - Epoch 1, Loss: 19014.189300380607
+2024-11-17 13:05:21,152 - BaseNetwork - INFO - Validating...
+2024-11-17 13:05:21,152 - BaseNetwork - INFO - Epoch 1
+2024-11-17 13:05:35,018 - BaseNetwork - INFO - Epoch 2, Loss: 6527.980338541666
+2024-11-17 13:05:35,018 - BaseNetwork - INFO - Validating...
+2024-11-17 13:05:35,019 - BaseNetwork - INFO - Epoch 2
+2024-11-17 13:05:49,018 - BaseNetwork - INFO - Epoch 3, Loss: 6493.3055463741985
+2024-11-17 13:05:49,018 - BaseNetwork - INFO - Validating...
+2024-11-17 13:05:49,019 - BaseNetwork - INFO - Epoch 3
+2024-11-17 13:06:02,978 - BaseNetwork - INFO - Epoch 4, Loss: 6272.6358598758015
+2024-11-17 13:06:02,978 - BaseNetwork - INFO - Validating...
+2024-11-17 13:06:02,979 - BaseNetwork - INFO - Epoch 4
+2024-11-17 13:06:16,877 - BaseNetwork - INFO - Epoch 5, Loss: 6057.422516025641
+2024-11-17 13:06:16,877 - BaseNetwork - INFO - Validating...
+2024-11-17 13:06:16,878 - BaseNetwork - INFO - Epoch 5
+2024-11-17 13:06:30,916 - BaseNetwork - INFO - Epoch 6, Loss: 5951.4373422475965
+2024-11-17 13:06:30,917 - BaseNetwork - INFO - Validating...
+2024-11-17 13:06:30,917 - BaseNetwork - INFO - Epoch 6
+2024-11-17 13:06:44,948 - BaseNetwork - INFO - Epoch 7, Loss: 5958.785759715545
+2024-11-17 13:06:44,948 - BaseNetwork - INFO - Validating...
+2024-11-17 13:06:44,949 - BaseNetwork - INFO - Epoch 7
+2024-11-17 13:06:58,817 - BaseNetwork - INFO - Epoch 8, Loss: 5936.261673677885
+2024-11-17 13:06:58,818 - BaseNetwork - INFO - Validating...
+2024-11-17 13:06:58,818 - BaseNetwork - INFO - Epoch 8
+2024-11-17 13:07:12,732 - BaseNetwork - INFO - Epoch 9, Loss: 5933.039721053686
+2024-11-17 13:07:12,732 - BaseNetwork - INFO - Validating...
+2024-11-17 13:07:12,732 - BaseNetwork - INFO - Epoch 9
+2024-11-17 13:07:26,542 - BaseNetwork - INFO - Epoch 10, Loss: 5887.37978515625
+2024-11-17 13:07:26,542 - BaseNetwork - INFO - Validating...
+2024-11-17 13:07:26,542 - BaseNetwork - INFO - Epoch 10
+2024-11-17 13:07:40,344 - BaseNetwork - INFO - Epoch 11, Loss: 5850.887818008814
+2024-11-17 13:07:40,344 - BaseNetwork - INFO - Validating...
+2024-11-17 13:07:40,345 - BaseNetwork - INFO - Epoch 11
+2024-11-17 13:07:54,129 - BaseNetwork - INFO - Epoch 12, Loss: 5896.902323717949
+2024-11-17 13:07:54,129 - BaseNetwork - INFO - Validating...
+2024-11-17 13:07:54,130 - BaseNetwork - INFO - Epoch 12
+2024-11-17 13:08:07,949 - BaseNetwork - INFO - Epoch 13, Loss: 5916.016974659455
+2024-11-17 13:08:07,949 - BaseNetwork - INFO - Validating...
+2024-11-17 13:08:07,950 - BaseNetwork - INFO - Epoch 13
+2024-11-17 13:08:21,718 - BaseNetwork - INFO - Epoch 14, Loss: 5948.366318609776
+2024-11-17 13:08:21,718 - BaseNetwork - INFO - Validating...
+2024-11-17 13:08:21,719 - BaseNetwork - INFO - Epoch 14
+2024-11-17 13:08:35,510 - BaseNetwork - INFO - Epoch 15, Loss: 5948.929609875801
+2024-11-17 13:08:35,510 - BaseNetwork - INFO - Validating...
+2024-11-17 13:08:35,511 - BaseNetwork - INFO - Epoch 15
+2024-11-17 13:08:49,272 - BaseNetwork - INFO - Epoch 16, Loss: 5904.331828425481
+2024-11-17 13:08:49,273 - BaseNetwork - INFO - Validating...
+2024-11-17 13:08:49,273 - BaseNetwork - INFO - Epoch 16
+2024-11-17 13:09:03,038 - BaseNetwork - INFO - Epoch 17, Loss: 5942.656565504808
+2024-11-17 13:09:03,038 - BaseNetwork - INFO - Validating...
+2024-11-17 13:09:03,038 - BaseNetwork - INFO - Epoch 17
+2024-11-17 13:09:16,968 - BaseNetwork - INFO - Epoch 18, Loss: 5929.965830328526
+2024-11-17 13:09:16,969 - BaseNetwork - INFO - Validating...
+2024-11-17 13:09:16,969 - BaseNetwork - INFO - Epoch 18
+2024-11-17 13:09:38,408 - BaseNetwork - INFO - Epoch 19, Loss: 5957.798149539263
+2024-11-17 13:09:38,408 - BaseNetwork - INFO - Validating...
+2024-11-17 13:09:38,409 - BaseNetwork - INFO - Epoch 19
+2024-11-17 13:09:52,368 - BaseNetwork - INFO - Epoch 20, Loss: 5921.515322015224
+2024-11-17 13:09:52,368 - BaseNetwork - INFO - Validating...
+2024-11-17 13:09:52,368 - BaseNetwork - INFO - Epoch 20
+2024-11-17 13:10:06,302 - BaseNetwork - INFO - Epoch 21, Loss: 5920.620500300481
+2024-11-17 13:10:06,302 - BaseNetwork - INFO - Validating...
+2024-11-17 13:10:06,303 - BaseNetwork - INFO - Epoch 21
+2024-11-17 13:10:20,129 - BaseNetwork - INFO - Epoch 22, Loss: 5919.025335536859
+2024-11-17 13:10:20,129 - BaseNetwork - INFO - Validating...
+2024-11-17 13:10:20,130 - BaseNetwork - INFO - Epoch 22
+2024-11-17 13:10:33,964 - BaseNetwork - INFO - Epoch 23, Loss: 5915.118539663462
+2024-11-17 13:10:33,964 - BaseNetwork - INFO - Validating...
+2024-11-17 13:10:33,965 - BaseNetwork - INFO - Epoch 23
+2024-11-17 13:10:47,760 - BaseNetwork - INFO - Epoch 24, Loss: 5940.644683994391
+2024-11-17 13:10:47,760 - BaseNetwork - INFO - Validating...
+2024-11-17 13:10:47,760 - BaseNetwork - INFO - Epoch 24
+2024-11-17 13:11:01,838 - BaseNetwork - INFO - Epoch 25, Loss: 5923.838093449519
+2024-11-17 13:11:01,838 - BaseNetwork - INFO - Validating...
+2024-11-17 13:11:09,771 - BaseNetwork - INFO - Validation Loss: 42625024.3575897
+2024-11-17 14:18:33,298 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 14:19:01,570 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 14:19:02,347 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 14:19:02,805 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 14:19:02,806 - BaseNetwork - INFO - Epoch 0
+2024-11-17 14:19:52,603 - BaseNetwork - INFO - Epoch 1, Loss: 21002.087545072114
+2024-11-17 14:19:52,603 - BaseNetwork - INFO - Validating...
+2024-11-17 14:19:52,604 - BaseNetwork - INFO - Epoch 1
+2024-11-17 14:20:42,306 - BaseNetwork - INFO - Epoch 2, Loss: 5810.397275641026
+2024-11-17 14:20:42,306 - BaseNetwork - INFO - Validating...
+2024-11-17 14:20:42,306 - BaseNetwork - INFO - Epoch 2
+2024-11-17 14:21:32,367 - BaseNetwork - INFO - Epoch 3, Loss: 5843.923429987981
+2024-11-17 14:21:32,367 - BaseNetwork - INFO - Validating...
+2024-11-17 14:21:32,367 - BaseNetwork - INFO - Epoch 3
+2024-11-17 14:22:22,727 - BaseNetwork - INFO - Epoch 4, Loss: 5825.289493189102
+2024-11-17 14:22:22,728 - BaseNetwork - INFO - Validating...
+2024-11-17 14:22:22,728 - BaseNetwork - INFO - Epoch 4
+2024-11-17 14:23:13,755 - BaseNetwork - INFO - Epoch 5, Loss: 5820.871068709936
+2024-11-17 14:23:13,756 - BaseNetwork - INFO - Validating...
+2024-11-17 14:23:13,756 - BaseNetwork - INFO - Epoch 5
+2024-11-17 14:24:04,626 - BaseNetwork - INFO - Epoch 6, Loss: 5815.843139022436
+2024-11-17 14:24:04,627 - BaseNetwork - INFO - Validating...
+2024-11-17 14:24:04,627 - BaseNetwork - INFO - Epoch 6
+2024-11-17 14:24:55,122 - BaseNetwork - INFO - Epoch 7, Loss: 5846.7845102163465
+2024-11-17 14:24:55,122 - BaseNetwork - INFO - Validating...
+2024-11-17 14:24:55,122 - BaseNetwork - INFO - Epoch 7
+2024-11-17 14:25:45,775 - BaseNetwork - INFO - Epoch 8, Loss: 5752.950971554487
+2024-11-17 14:25:45,775 - BaseNetwork - INFO - Validating...
+2024-11-17 14:25:45,775 - BaseNetwork - INFO - Epoch 8
+2024-11-17 14:26:36,131 - BaseNetwork - INFO - Epoch 9, Loss: 5801.928598257212
+2024-11-17 14:26:36,131 - BaseNetwork - INFO - Validating...
+2024-11-17 14:26:36,132 - BaseNetwork - INFO - Epoch 9
+2024-11-17 14:27:28,003 - BaseNetwork - INFO - Epoch 10, Loss: 5798.959950921474
+2024-11-17 14:27:28,004 - BaseNetwork - INFO - Validating...
+2024-11-17 14:27:28,004 - BaseNetwork - INFO - Epoch 10
+2024-11-17 14:28:19,423 - BaseNetwork - INFO - Epoch 11, Loss: 5801.128771033654
+2024-11-17 14:28:19,423 - BaseNetwork - INFO - Validating...
+2024-11-17 14:28:19,423 - BaseNetwork - INFO - Epoch 11
+2024-11-17 14:29:06,573 - BaseNetwork - INFO - Epoch 12, Loss: 5791.693592247596
+2024-11-17 14:29:06,574 - BaseNetwork - INFO - Validating...
+2024-11-17 14:29:06,574 - BaseNetwork - INFO - Epoch 12
+2024-11-17 14:29:55,851 - BaseNetwork - INFO - Epoch 13, Loss: 5798.28697666266
+2024-11-17 14:29:55,852 - BaseNetwork - INFO - Validating...
+2024-11-17 14:29:55,852 - BaseNetwork - INFO - Epoch 13
+2024-11-17 14:30:45,812 - BaseNetwork - INFO - Epoch 14, Loss: 5797.048460036058
+2024-11-17 14:30:45,812 - BaseNetwork - INFO - Validating...
+2024-11-17 14:30:45,812 - BaseNetwork - INFO - Epoch 14
+2024-11-17 14:31:35,630 - BaseNetwork - INFO - Epoch 15, Loss: 5829.067728365385
+2024-11-17 14:31:35,630 - BaseNetwork - INFO - Validating...
+2024-11-17 14:31:35,630 - BaseNetwork - INFO - Epoch 15
+2024-11-17 14:32:26,747 - BaseNetwork - INFO - Epoch 16, Loss: 5804.3329727564105
+2024-11-17 14:32:26,748 - BaseNetwork - INFO - Validating...
+2024-11-17 14:32:26,748 - BaseNetwork - INFO - Epoch 16
+2024-11-17 14:33:16,808 - BaseNetwork - INFO - Epoch 17, Loss: 5800.891193409455
+2024-11-17 14:33:16,808 - BaseNetwork - INFO - Validating...
+2024-11-17 14:33:16,809 - BaseNetwork - INFO - Epoch 17
+2024-11-17 14:34:07,058 - BaseNetwork - INFO - Epoch 18, Loss: 5798.300343048878
+2024-11-17 14:34:07,058 - BaseNetwork - INFO - Validating...
+2024-11-17 14:34:07,058 - BaseNetwork - INFO - Epoch 18
+2024-11-17 14:34:57,380 - BaseNetwork - INFO - Epoch 19, Loss: 5849.59166416266
+2024-11-17 14:34:57,380 - BaseNetwork - INFO - Validating...
+2024-11-17 14:34:57,380 - BaseNetwork - INFO - Epoch 19
+2024-11-17 14:35:47,595 - BaseNetwork - INFO - Epoch 20, Loss: 5766.690602463942
+2024-11-17 14:35:47,596 - BaseNetwork - INFO - Validating...
+2024-11-17 14:36:24,425 - BaseNetwork - INFO - Validation Loss: 40895053.462748736
+2024-11-17 14:37:13,071 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 14:37:14,169 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 14:37:14,169 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 14:37:14,170 - BaseNetwork - INFO - Epoch 0
+2024-11-17 14:37:36,921 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 14:37:44,313 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 14:37:44,804 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 14:37:44,805 - BaseNetwork - INFO - Epoch 0
+2024-11-17 14:38:33,777 - BaseNetwork - INFO - Epoch 1, Loss: 13296.081362680288
+2024-11-17 14:38:33,778 - BaseNetwork - INFO - Validating...
+2024-11-17 14:38:33,778 - BaseNetwork - INFO - Epoch 1
+2024-11-17 14:39:23,725 - BaseNetwork - INFO - Epoch 2, Loss: 5803.299366486378
+2024-11-17 14:39:23,726 - BaseNetwork - INFO - Validating...
+2024-11-17 14:39:23,726 - BaseNetwork - INFO - Epoch 2
+2024-11-17 14:40:13,600 - BaseNetwork - INFO - Epoch 3, Loss: 5796.37255859375
+2024-11-17 14:40:13,601 - BaseNetwork - INFO - Validating...
+2024-11-17 14:40:13,601 - BaseNetwork - INFO - Epoch 3
+2024-11-17 14:41:03,393 - BaseNetwork - INFO - Epoch 4, Loss: 5796.391185897436
+2024-11-17 14:41:03,393 - BaseNetwork - INFO - Validating...
+2024-11-17 14:41:03,394 - BaseNetwork - INFO - Epoch 4
+2024-11-17 14:41:53,468 - BaseNetwork - INFO - Epoch 5, Loss: 5795.906527944711
+2024-11-17 14:41:53,469 - BaseNetwork - INFO - Validating...
+2024-11-17 14:41:53,469 - BaseNetwork - INFO - Epoch 5
+2024-11-17 14:42:43,009 - BaseNetwork - INFO - Epoch 6, Loss: 5795.920745693109
+2024-11-17 14:42:43,010 - BaseNetwork - INFO - Validating...
+2024-11-17 14:42:43,010 - BaseNetwork - INFO - Epoch 6
+2024-11-17 14:43:32,551 - BaseNetwork - INFO - Epoch 7, Loss: 5816.599827223557
+2024-11-17 14:43:32,552 - BaseNetwork - INFO - Validating...
+2024-11-17 14:43:32,552 - BaseNetwork - INFO - Epoch 7
+2024-11-17 14:44:22,249 - BaseNetwork - INFO - Epoch 8, Loss: 5805.619215745192
+2024-11-17 14:44:22,250 - BaseNetwork - INFO - Validating...
+2024-11-17 14:44:22,250 - BaseNetwork - INFO - Epoch 8
+2024-11-17 14:45:13,297 - BaseNetwork - INFO - Epoch 9, Loss: 5804.811999198718
+2024-11-17 14:45:13,298 - BaseNetwork - INFO - Validating...
+2024-11-17 14:45:13,298 - BaseNetwork - INFO - Epoch 9
+2024-11-17 14:46:04,112 - BaseNetwork - INFO - Epoch 10, Loss: 5804.874554286859
+2024-11-17 14:46:04,112 - BaseNetwork - INFO - Validating...
+2024-11-17 14:46:04,112 - BaseNetwork - INFO - Epoch 10
+2024-11-17 14:46:54,951 - BaseNetwork - INFO - Epoch 11, Loss: 5813.61731270032
+2024-11-17 14:46:54,951 - BaseNetwork - INFO - Validating...
+2024-11-17 14:46:54,951 - BaseNetwork - INFO - Epoch 11
+2024-11-17 14:47:45,775 - BaseNetwork - INFO - Epoch 12, Loss: 5801.890920472756
+2024-11-17 14:47:45,775 - BaseNetwork - INFO - Validating...
+2024-11-17 14:47:45,776 - BaseNetwork - INFO - Epoch 12
+2024-11-17 14:48:36,737 - BaseNetwork - INFO - Epoch 13, Loss: 5801.63044120593
+2024-11-17 14:48:36,738 - BaseNetwork - INFO - Validating...
+2024-11-17 14:48:36,738 - BaseNetwork - INFO - Epoch 13
+2024-11-17 14:49:27,902 - BaseNetwork - INFO - Epoch 14, Loss: 5801.709264823718
+2024-11-17 14:49:27,903 - BaseNetwork - INFO - Validating...
+2024-11-17 14:49:27,903 - BaseNetwork - INFO - Epoch 14
+2024-11-17 14:50:19,106 - BaseNetwork - INFO - Epoch 15, Loss: 5801.997200520834
+2024-11-17 14:50:19,106 - BaseNetwork - INFO - Validating...
+2024-11-17 14:50:19,106 - BaseNetwork - INFO - Epoch 15
+2024-11-17 14:51:09,836 - BaseNetwork - INFO - Epoch 16, Loss: 5802.55797275641
+2024-11-17 14:51:09,836 - BaseNetwork - INFO - Validating...
+2024-11-17 14:51:09,837 - BaseNetwork - INFO - Epoch 16
+2024-11-17 14:52:00,669 - BaseNetwork - INFO - Epoch 17, Loss: 5802.555441205929
+2024-11-17 14:52:00,669 - BaseNetwork - INFO - Validating...
+2024-11-17 14:52:00,669 - BaseNetwork - INFO - Epoch 17
+2024-11-17 14:52:51,435 - BaseNetwork - INFO - Epoch 18, Loss: 5802.3402143429485
+2024-11-17 14:52:51,435 - BaseNetwork - INFO - Validating...
+2024-11-17 14:52:51,435 - BaseNetwork - INFO - Epoch 18
+2024-11-17 14:53:42,046 - BaseNetwork - INFO - Epoch 19, Loss: 5804.218131510416
+2024-11-17 14:53:42,046 - BaseNetwork - INFO - Validating...
+2024-11-17 14:53:42,046 - BaseNetwork - INFO - Epoch 19
+2024-11-17 14:54:32,781 - BaseNetwork - INFO - Epoch 20, Loss: 5808.604449619391
+2024-11-17 14:54:32,781 - BaseNetwork - INFO - Validating...
+2024-11-17 14:54:57,021 - BaseNetwork - INFO - Validation Loss: 41435647.771668896
+2024-11-17 14:55:19,945 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 14:55:30,329 - BaseNetwork - INFO - Validation Loss: 41435647.66711753
+2024-11-17 22:53:41,331 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 22:53:42,567 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 22:53:42,567 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 22:53:42,568 - BaseNetwork - INFO - Epoch 0
+2024-11-17 22:54:48,818 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 22:55:20,794 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 22:55:22,792 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 22:55:23,747 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 22:55:23,748 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 22:55:23,748 - BaseNetwork - INFO - Epoch 0
+2024-11-17 22:56:12,906 - BaseNetwork - INFO - Epoch 1, Loss: 0.32586192572728184
+2024-11-17 22:56:12,907 - BaseNetwork - INFO - Validating...
+2024-11-17 22:56:12,907 - BaseNetwork - INFO - Epoch 1
+2024-11-17 22:57:01,934 - BaseNetwork - INFO - Epoch 2, Loss: 0.3039549452372086
+2024-11-17 22:57:01,935 - BaseNetwork - INFO - Validating...
+2024-11-17 22:57:01,935 - BaseNetwork - INFO - Epoch 2
+2024-11-17 22:57:51,500 - BaseNetwork - INFO - Epoch 3, Loss: 0.3080360091649569
+2024-11-17 22:57:51,501 - BaseNetwork - INFO - Validating...
+2024-11-17 22:58:49,210 - BaseNetwork - INFO - Validation Loss: 0.10652505823805392
+2024-11-17 23:03:32,195 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:04:11,807 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:04:12,522 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:04:13,023 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:04:13,023 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:04:17,458 - BaseNetwork - INFO - Epoch 1, Loss: 5970.106475360577
+2024-11-17 23:04:17,459 - BaseNetwork - INFO - Validating...
+2024-11-17 23:04:17,459 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:04:21,809 - BaseNetwork - INFO - Epoch 2, Loss: 5500.258344601362
+2024-11-17 23:04:21,809 - BaseNetwork - INFO - Validating...
+2024-11-17 23:04:21,810 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:04:26,173 - BaseNetwork - INFO - Epoch 3, Loss: 5503.114590845353
+2024-11-17 23:04:26,173 - BaseNetwork - INFO - Validating...
+2024-11-17 23:04:43,995 - BaseNetwork - INFO - Validation Loss: 39941298.30708809
+2024-11-17 23:15:10,142 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:15:10,521 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:15:10,865 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:15:10,865 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:16:04,351 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:16:04,718 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:16:05,046 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:16:05,047 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:16:37,281 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:16:37,460 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:16:37,823 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:16:37,823 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:16:55,195 - BaseNetwork - INFO - Epoch 1, Loss: 8977.109617888622
+2024-11-17 23:16:55,196 - BaseNetwork - INFO - Validating...
+2024-11-17 23:16:55,196 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:17:12,494 - BaseNetwork - INFO - Epoch 2, Loss: 7828.518482071314
+2024-11-17 23:17:12,494 - BaseNetwork - INFO - Validating...
+2024-11-17 23:17:12,494 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:17:29,523 - BaseNetwork - INFO - Epoch 3, Loss: 7829.200483273237
+2024-11-17 23:17:29,523 - BaseNetwork - INFO - Validating...
+2024-11-17 23:17:30,199 - BaseNetwork - INFO - Validation Loss: 38761010.4638944
+2024-11-17 23:18:29,972 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:18:30,879 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:18:31,235 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:18:31,236 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:18:48,032 - BaseNetwork - INFO - Epoch 1, Loss: 6487.462422375801
+2024-11-17 23:18:48,032 - BaseNetwork - INFO - Validating...
+2024-11-17 23:18:48,033 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:19:04,848 - BaseNetwork - INFO - Epoch 2, Loss: 5068.6875563401445
+2024-11-17 23:19:04,848 - BaseNetwork - INFO - Validating...
+2024-11-17 23:19:04,849 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:19:21,661 - BaseNetwork - INFO - Epoch 3, Loss: 5089.153101211939
+2024-11-17 23:19:21,661 - BaseNetwork - INFO - Validating...
+2024-11-17 23:19:24,648 - BaseNetwork - INFO - Validation Loss: 31200617.39295206
+2024-11-17 23:20:43,596 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:20:44,578 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:20:44,910 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:20:44,910 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:21:53,327 - BaseNetwork - INFO - Epoch 1, Loss: 15196.210658303286
+2024-11-17 23:21:53,327 - BaseNetwork - INFO - Validating...
+2024-11-17 23:21:53,327 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:23:01,667 - BaseNetwork - INFO - Epoch 2, Loss: 5225.494676482372
+2024-11-17 23:23:01,668 - BaseNetwork - INFO - Validating...
+2024-11-17 23:23:01,668 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:24:10,046 - BaseNetwork - INFO - Epoch 3, Loss: 5201.964647185497
+2024-11-17 23:24:10,047 - BaseNetwork - INFO - Validating...
+2024-11-17 23:24:13,049 - BaseNetwork - INFO - Validation Loss: 148128331.3990422
+2024-11-17 23:25:12,137 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:25:12,510 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:25:12,968 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:25:12,968 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:25:18,176 - BaseNetwork - INFO - Epoch 1, Loss: 4488.632055038061
+2024-11-17 23:25:18,176 - BaseNetwork - INFO - Validating...
+2024-11-17 23:25:18,176 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:25:23,386 - BaseNetwork - INFO - Epoch 2, Loss: 1794.8573592748398
+2024-11-17 23:25:23,386 - BaseNetwork - INFO - Validating...
+2024-11-17 23:25:23,387 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:25:28,578 - BaseNetwork - INFO - Epoch 3, Loss: 1766.7479592347756
+2024-11-17 23:25:28,579 - BaseNetwork - INFO - Validating...
+2024-11-17 23:25:31,490 - BaseNetwork - INFO - Validation Loss: 3569146.2764042383
+2024-11-17 23:28:01,673 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:28:02,809 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:28:02,810 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:28:02,810 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:28:16,061 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:28:16,829 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:28:16,830 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:28:16,830 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:28:22,242 - BaseNetwork - INFO - Epoch 1, Loss: 8661.862780448719
+2024-11-17 23:28:22,243 - BaseNetwork - INFO - Validating...
+2024-11-17 23:28:22,243 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:28:27,509 - BaseNetwork - INFO - Epoch 2, Loss: 8230.963291266025
+2024-11-17 23:28:27,509 - BaseNetwork - INFO - Validating...
+2024-11-17 23:28:27,510 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:28:32,766 - BaseNetwork - INFO - Epoch 3, Loss: 7869.908698918269
+2024-11-17 23:28:32,766 - BaseNetwork - INFO - Validating...
+2024-11-17 23:28:36,428 - BaseNetwork - INFO - Validation Loss: 38244400.61186399
+2024-11-17 23:30:32,436 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:30:34,907 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:30:35,335 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:30:35,335 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:30:35,335 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:30:41,540 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:30:41,940 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:30:41,940 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:30:41,941 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:30:47,212 - BaseNetwork - INFO - Epoch 1, Loss: 4354.154015800281
+2024-11-17 23:30:47,213 - BaseNetwork - INFO - Validating...
+2024-11-17 23:30:47,213 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:30:52,425 - BaseNetwork - INFO - Epoch 2, Loss: 1796.0154760116186
+2024-11-17 23:30:52,425 - BaseNetwork - INFO - Validating...
+2024-11-17 23:30:52,425 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:30:57,647 - BaseNetwork - INFO - Epoch 3, Loss: 1754.0254657451924
+2024-11-17 23:30:57,648 - BaseNetwork - INFO - Validating...
+2024-11-17 23:30:57,648 - BaseNetwork - INFO - Epoch 3
+2024-11-17 23:31:02,887 - BaseNetwork - INFO - Epoch 4, Loss: 1790.272060922476
+2024-11-17 23:31:02,887 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:02,887 - BaseNetwork - INFO - Epoch 4
+2024-11-17 23:31:08,136 - BaseNetwork - INFO - Epoch 5, Loss: 1746.9930476262018
+2024-11-17 23:31:08,137 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:08,137 - BaseNetwork - INFO - Epoch 5
+2024-11-17 23:31:13,570 - BaseNetwork - INFO - Epoch 6, Loss: 1780.7455253405449
+2024-11-17 23:31:13,572 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:13,572 - BaseNetwork - INFO - Epoch 6
+2024-11-17 23:31:18,878 - BaseNetwork - INFO - Epoch 7, Loss: 1732.9952693058895
+2024-11-17 23:31:18,879 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:18,879 - BaseNetwork - INFO - Epoch 7
+2024-11-17 23:31:24,272 - BaseNetwork - INFO - Epoch 8, Loss: 1749.1756366436298
+2024-11-17 23:31:24,273 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:24,273 - BaseNetwork - INFO - Epoch 8
+2024-11-17 23:31:29,515 - BaseNetwork - INFO - Epoch 9, Loss: 1748.7154246794871
+2024-11-17 23:31:29,516 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:29,516 - BaseNetwork - INFO - Epoch 9
+2024-11-17 23:31:34,723 - BaseNetwork - INFO - Epoch 10, Loss: 1768.8695350060095
+2024-11-17 23:31:34,723 - BaseNetwork - INFO - Validating...
+2024-11-17 23:31:35,706 - BaseNetwork - INFO - Validation Loss: 2466575.1644556313
+2024-11-17 23:32:27,351 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:32:28,180 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:32:28,181 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:32:28,181 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:32:42,278 - BaseNetwork - INFO - Epoch 1, Loss: 10901.298452524039
+2024-11-17 23:32:42,278 - BaseNetwork - INFO - Validating...
+2024-11-17 23:32:42,279 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:32:56,362 - BaseNetwork - INFO - Epoch 2, Loss: 5842.292813501603
+2024-11-17 23:32:56,363 - BaseNetwork - INFO - Validating...
+2024-11-17 23:32:56,363 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:33:10,444 - BaseNetwork - INFO - Epoch 3, Loss: 5855.068634815705
+2024-11-17 23:33:10,445 - BaseNetwork - INFO - Validating...
+2024-11-17 23:33:10,445 - BaseNetwork - INFO - Epoch 3
+2024-11-17 23:33:24,563 - BaseNetwork - INFO - Epoch 4, Loss: 5856.009693008814
+2024-11-17 23:33:24,563 - BaseNetwork - INFO - Validating...
+2024-11-17 23:33:24,564 - BaseNetwork - INFO - Epoch 4
+2024-11-17 23:33:39,034 - BaseNetwork - INFO - Epoch 5, Loss: 5855.8421274038465
+2024-11-17 23:33:39,034 - BaseNetwork - INFO - Validating...
+2024-11-17 23:33:39,034 - BaseNetwork - INFO - Epoch 5
+2024-11-17 23:33:53,353 - BaseNetwork - INFO - Epoch 6, Loss: 5856.155333533654
+2024-11-17 23:33:53,354 - BaseNetwork - INFO - Validating...
+2024-11-17 23:33:53,354 - BaseNetwork - INFO - Epoch 6
+2024-11-17 23:34:06,464 - BaseNetwork - INFO - Epoch 7, Loss: 5855.933448517628
+2024-11-17 23:34:06,464 - BaseNetwork - INFO - Validating...
+2024-11-17 23:34:06,465 - BaseNetwork - INFO - Epoch 7
+2024-11-17 23:34:19,934 - BaseNetwork - INFO - Epoch 8, Loss: 5855.659332431891
+2024-11-17 23:34:19,934 - BaseNetwork - INFO - Validating...
+2024-11-17 23:34:19,934 - BaseNetwork - INFO - Epoch 8
+2024-11-17 23:34:33,166 - BaseNetwork - INFO - Epoch 9, Loss: 5855.584460136218
+2024-11-17 23:34:33,167 - BaseNetwork - INFO - Validating...
+2024-11-17 23:34:33,167 - BaseNetwork - INFO - Epoch 9
+2024-11-17 23:34:46,193 - BaseNetwork - INFO - Epoch 10, Loss: 5859.27119140625
+2024-11-17 23:34:46,193 - BaseNetwork - INFO - Validating...
+2024-11-17 23:35:04,816 - BaseNetwork - INFO - Validation Loss: 43337088.644969314
+2024-11-17 23:42:15,654 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-17 23:42:16,408 - BaseNetwork - INFO - Model has been initialized
+2024-11-17 23:42:16,897 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-17 23:42:16,897 - BaseNetwork - INFO - Epoch 0
+2024-11-17 23:42:31,688 - BaseNetwork - INFO - Epoch 1, Loss: 7432.9814453125
+2024-11-17 23:42:31,689 - BaseNetwork - INFO - Validating...
+2024-11-17 23:42:31,689 - BaseNetwork - INFO - Epoch 1
+2024-11-17 23:42:46,640 - BaseNetwork - INFO - Epoch 2, Loss: 6217.477463942308
+2024-11-17 23:42:46,640 - BaseNetwork - INFO - Validating...
+2024-11-17 23:42:46,640 - BaseNetwork - INFO - Epoch 2
+2024-11-17 23:43:01,899 - BaseNetwork - INFO - Epoch 3, Loss: 6257.222025240385
+2024-11-17 23:43:01,900 - BaseNetwork - INFO - Validating...
+2024-11-17 23:43:01,900 - BaseNetwork - INFO - Epoch 3
+2024-11-17 23:43:17,349 - BaseNetwork - INFO - Epoch 4, Loss: 6322.076382211539
+2024-11-17 23:43:17,349 - BaseNetwork - INFO - Validating...
+2024-11-17 23:43:17,349 - BaseNetwork - INFO - Epoch 4
+2024-11-17 23:43:33,053 - BaseNetwork - INFO - Epoch 5, Loss: 6257.746732271635
+2024-11-17 23:43:33,053 - BaseNetwork - INFO - Validating...
+2024-11-17 23:43:33,054 - BaseNetwork - INFO - Epoch 5
+2024-11-18 12:45:42,141 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 12:45:43,643 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 12:45:44,073 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 12:45:44,074 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:01:38,806 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:05:18,388 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:05:44,986 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:06:36,886 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:06:37,746 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:06:38,252 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:06:38,253 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:08:11,014 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:08:11,421 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:08:11,910 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:08:11,911 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:08:41,491 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:08:41,930 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:08:41,932 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:08:41,932 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:09:09,551 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:11:04,723 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:12:19,383 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:12:21,766 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:12:22,312 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:12:22,312 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:14:07,082 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:14:10,956 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:14:11,504 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:14:11,505 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:14:31,461 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:14:31,641 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:14:31,642 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:14:31,642 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:14:53,470 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 13:14:53,887 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 13:14:54,301 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 13:14:54,302 - BaseNetwork - INFO - Epoch 0
+2024-11-18 13:15:16,645 - BaseNetwork - INFO - Epoch 1, Loss: 418723715.15897435
+2024-11-18 13:15:16,645 - BaseNetwork - INFO - Epoch 1
+2024-11-18 13:15:38,790 - BaseNetwork - INFO - Epoch 2, Loss: 50015193.4974359
+2024-11-18 13:15:38,791 - BaseNetwork - INFO - Epoch 2
+2024-11-18 13:16:01,010 - BaseNetwork - INFO - Epoch 3, Loss: 50328017.83589744
+2024-11-18 13:16:30,853 - BaseNetwork - INFO - Validation Loss: 145466523.16504616
+2024-11-18 21:21:08,363 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:21:08,554 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 21:21:09,108 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 21:21:09,108 - BaseNetwork - INFO - Epoch 0
+2024-11-18 21:21:31,336 - BaseNetwork - INFO - Epoch 1, Loss: 407755887.7025641
+2024-11-18 21:21:31,336 - BaseNetwork - INFO - Epoch 1
+2024-11-18 21:21:53,554 - BaseNetwork - INFO - Epoch 2, Loss: 49403338.37948718
+2024-11-18 21:21:53,555 - BaseNetwork - INFO - Epoch 2
+2024-11-18 21:22:15,338 - BaseNetwork - INFO - Epoch 3, Loss: 50181340.13333333
+2024-11-18 21:22:15,781 - BaseNetwork - INFO - Validation Loss: 172797755.12567544
+2024-11-18 21:22:18,280 - BaseNetwork - INFO - Validation Loss: 172797755.12567544
+2024-11-18 21:26:44,476 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:26:52,570 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 21:26:52,988 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 21:26:52,988 - BaseNetwork - INFO - Epoch 0
+2024-11-18 21:27:10,210 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:27:10,878 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 21:27:10,879 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 21:27:10,879 - BaseNetwork - INFO - Epoch 0
+2024-11-18 21:27:31,644 - BaseNetwork - INFO - Epoch 1, Loss: 373202737.4153846
+2024-11-18 21:27:31,645 - BaseNetwork - INFO - Epoch 1
+2024-11-18 21:27:53,713 - BaseNetwork - INFO - Epoch 2, Loss: 49190953.94871795
+2024-11-18 21:27:53,714 - BaseNetwork - INFO - Epoch 2
+2024-11-18 21:28:15,452 - BaseNetwork - INFO - Epoch 3, Loss: 49410622.37948718
+2024-11-18 21:29:33,660 - BaseNetwork - INFO - Validation Loss: 42688293.99702233
+2024-11-18 21:29:55,367 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:29:57,601 - BaseNetwork - INFO - Validation Loss: 43001452.09756097
+2024-11-18 21:30:20,340 - BaseNetwork - INFO - Validation Loss: 43001452.09756097
+2024-11-18 21:30:35,165 - BaseNetwork - INFO - Validation Loss: 43001452.09756097
+2024-11-18 21:36:00,883 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:36:02,157 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 21:36:02,158 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 21:36:02,159 - BaseNetwork - INFO - Epoch 0
+2024-11-18 21:36:23,057 - BaseNetwork - INFO - Epoch 1, Loss: 0.3022406259790445
+2024-11-18 21:36:23,058 - BaseNetwork - INFO - Epoch 1
+2024-11-18 21:36:43,600 - BaseNetwork - INFO - Epoch 2, Loss: 0.037345812909114054
+2024-11-18 21:36:43,601 - BaseNetwork - INFO - Epoch 2
+2024-11-18 21:37:04,094 - BaseNetwork - INFO - Epoch 3, Loss: 0.03504610674885603
+2024-11-18 21:41:17,523 - BaseNetwork - INFO - Validation Loss: 0.02728173468352818
+2024-11-18 21:56:12,976 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:56:13,519 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 21:56:14,057 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 21:56:14,057 - BaseNetwork - INFO - Epoch 0
+2024-11-18 21:56:35,526 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 21:56:36,007 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 21:56:36,008 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 21:56:36,009 - BaseNetwork - INFO - Epoch 0
+2024-11-18 21:56:58,275 - BaseNetwork - INFO - Epoch 1, Loss: 387344808.28717947
+2024-11-18 21:56:58,275 - BaseNetwork - INFO - Epoch 1
+2024-11-18 21:57:21,059 - BaseNetwork - INFO - Epoch 2, Loss: 49242008.84102564
+2024-11-18 21:57:21,060 - BaseNetwork - INFO - Epoch 2
+2024-11-18 21:57:43,357 - BaseNetwork - INFO - Epoch 3, Loss: 49406273.0974359
+2024-11-18 21:57:44,113 - BaseNetwork - INFO - Validation Loss: 42750707.90243903
+2024-11-18 22:02:26,353 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 22:02:28,601 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 22:02:29,157 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 22:02:29,157 - BaseNetwork - INFO - Epoch 0
+2024-11-18 22:02:36,918 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 22:02:37,056 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 22:02:37,057 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 22:02:37,057 - BaseNetwork - INFO - Epoch 0
+2024-11-18 22:02:51,897 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 22:02:51,898 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 22:02:51,899 - BaseNetwork - INFO - Epoch 0
+2024-11-18 22:03:34,342 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 22:03:48,385 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 22:03:50,277 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 22:03:51,309 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 22:03:51,310 - BaseNetwork - INFO - Epoch 0
+2024-11-18 22:04:11,964 - BaseNetwork - INFO - Epoch 1, Loss: 381140439.7641026
+2024-11-18 22:04:11,964 - BaseNetwork - INFO - Epoch 1
+2024-11-18 22:04:32,388 - BaseNetwork - INFO - Epoch 2, Loss: 49332094.49230769
+2024-11-18 22:04:32,389 - BaseNetwork - INFO - Epoch 2
+2024-11-18 22:04:53,167 - BaseNetwork - INFO - Epoch 3, Loss: 49426267.85641026
+2024-11-18 22:04:58,612 - BaseNetwork - INFO - Validation Loss: 42814054.682926826
+2024-11-18 22:05:34,897 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 22:05:35,031 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 22:05:35,032 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 22:05:35,032 - BaseNetwork - INFO - Epoch 0
+2024-11-18 22:06:05,027 - BaseNetwork - INFO - Epoch 1, Loss: 125193208.82519281
+2024-11-18 22:06:05,027 - BaseNetwork - INFO - Epoch 1
+2024-11-18 22:06:35,997 - BaseNetwork - INFO - Epoch 2, Loss: 47815654.57133676
+2024-11-18 22:06:35,998 - BaseNetwork - INFO - Epoch 2
+2024-11-18 22:07:03,733 - BaseNetwork - INFO - Epoch 3, Loss: 47699061.28856041
+2024-11-18 22:07:24,932 - BaseNetwork - INFO - Validation Loss: 39835002.70731708
+2024-11-18 22:08:26,920 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-18 22:08:28,181 - BaseNetwork - INFO - Model has been initialized
+2024-11-18 22:08:28,743 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-18 22:08:28,744 - BaseNetwork - INFO - Epoch 0
+2024-11-18 22:08:55,399 - BaseNetwork - INFO - Epoch 1, Loss: 1087831983.8766067
+2024-11-18 22:08:55,400 - BaseNetwork - INFO - Epoch 1
+2024-11-18 22:09:22,648 - BaseNetwork - INFO - Epoch 2, Loss: 1063253887.3419023
+2024-11-18 22:09:22,648 - BaseNetwork - INFO - Epoch 2
+2024-11-18 22:09:49,401 - BaseNetwork - INFO - Epoch 3, Loss: 1049826723.7017995
+2024-11-18 22:09:50,039 - BaseNetwork - INFO - Validation Loss: 841598859.7073171
+2024-11-19 18:16:47,910 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:17:14,987 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:29:05,117 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:32:11,786 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:32:23,886 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:33:25,376 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:33:25,940 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:33:26,480 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:34:06,844 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:34:07,500 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:34:07,918 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:34:07,919 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:35:01,965 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:35:02,494 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:35:02,916 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:35:02,916 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:35:29,010 - BaseNetwork - INFO - Epoch 1, Loss: 0.036047811579835484
+2024-11-19 18:35:29,011 - BaseNetwork - INFO - Epoch 1
+2024-11-19 18:35:55,170 - BaseNetwork - INFO - Epoch 2, Loss: 0.031879415693106296
+2024-11-19 18:35:55,171 - BaseNetwork - INFO - Epoch 2
+2024-11-19 18:35:57,713 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:35:57,714 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:35:57,714 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:36:24,207 - BaseNetwork - INFO - Epoch 1, Loss: 0.03587715775564619
+2024-11-19 18:36:24,208 - BaseNetwork - INFO - Epoch 1
+2024-11-19 18:36:49,451 - BaseNetwork - INFO - Epoch 2, Loss: 0.031867325316712374
+2024-11-19 18:36:49,452 - BaseNetwork - INFO - Epoch 2
+2024-11-19 18:37:14,227 - BaseNetwork - INFO - Epoch 3, Loss: 0.031939564528934906
+2024-11-19 18:39:02,613 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:39:47,172 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:41:02,023 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:41:03,814 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:41:03,815 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:41:03,816 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:41:28,830 - BaseNetwork - INFO - Epoch 1, Loss: 0.03522141542792043
+2024-11-19 18:41:28,831 - BaseNetwork - INFO - Epoch 1
+2024-11-19 18:41:54,151 - BaseNetwork - INFO - Epoch 2, Loss: 0.02634397284115801
+2024-11-19 18:41:54,151 - BaseNetwork - INFO - Epoch 2
+2024-11-19 18:42:19,051 - BaseNetwork - INFO - Epoch 3, Loss: 0.03180253436486057
+2024-11-19 18:46:55,942 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:47:28,110 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:47:28,111 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:47:28,112 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:47:53,745 - BaseNetwork - INFO - Epoch 1, Loss: 0.03289509611144413
+2024-11-19 18:47:53,746 - BaseNetwork - INFO - Epoch 1
+2024-11-19 18:48:19,885 - BaseNetwork - INFO - Epoch 2, Loss: 0.03198377785612865
+2024-11-19 18:48:19,885 - BaseNetwork - INFO - Epoch 2
+2024-11-19 18:48:44,485 - BaseNetwork - INFO - Epoch 3, Loss: 0.03197199330428151
+2024-11-19 18:49:48,563 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:49:51,577 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:49:51,578 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:49:51,579 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:50:16,338 - BaseNetwork - INFO - Epoch 1, Loss: 0.03667202081224836
+2024-11-19 18:50:16,338 - BaseNetwork - INFO - Epoch 1
+2024-11-19 18:50:41,031 - BaseNetwork - INFO - Epoch 2, Loss: 0.03387732603102396
+2024-11-19 18:50:41,031 - BaseNetwork - INFO - Epoch 2
+2024-11-19 18:51:05,760 - BaseNetwork - INFO - Epoch 3, Loss: 0.03361685397456565
+2024-11-19 18:52:11,056 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:52:17,829 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:52:19,654 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 18:52:37,624 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 18:52:37,625 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 18:52:37,626 - BaseNetwork - INFO - Epoch 0
+2024-11-19 18:53:02,557 - BaseNetwork - INFO - Epoch 1, Loss: 0.045616012023807356
+2024-11-19 18:53:02,558 - BaseNetwork - INFO - Epoch 1
+2024-11-19 18:53:27,645 - BaseNetwork - INFO - Epoch 2, Loss: 0.032431688371286814
+2024-11-19 18:53:27,646 - BaseNetwork - INFO - Epoch 2
+2024-11-19 18:53:52,798 - BaseNetwork - INFO - Epoch 3, Loss: 0.03209080984175521
+2024-11-19 18:59:08,155 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 19:00:22,769 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 19:00:39,636 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 19:00:39,637 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 19:00:39,637 - BaseNetwork - INFO - Epoch 0
+2024-11-19 19:01:05,127 - BaseNetwork - INFO - Epoch 1, Loss: 0.03200505297226415
+2024-11-19 19:01:05,127 - BaseNetwork - INFO - Epoch 1
+2024-11-19 19:01:30,222 - BaseNetwork - INFO - Epoch 2, Loss: 0.031578845263681446
+2024-11-19 19:01:30,222 - BaseNetwork - INFO - Epoch 2
+2024-11-19 19:01:55,520 - BaseNetwork - INFO - Epoch 3, Loss: 0.03138942956944789
+2024-11-19 19:03:51,466 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 19:03:52,347 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 19:03:52,348 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 19:03:52,349 - BaseNetwork - INFO - Epoch 0
+2024-11-19 19:04:17,132 - BaseNetwork - INFO - Epoch 1, Loss: 0.03626573698656217
+2024-11-19 19:04:17,133 - BaseNetwork - INFO - Epoch 1
+2024-11-19 19:04:41,920 - BaseNetwork - INFO - Epoch 2, Loss: 0.031915498150160634
+2024-11-19 19:04:41,921 - BaseNetwork - INFO - Epoch 2
+2024-11-19 19:05:06,829 - BaseNetwork - INFO - Epoch 3, Loss: 0.03189623836011346
+2024-11-19 19:05:26,778 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-19 19:05:27,165 - BaseNetwork - INFO - Model has been initialized
+2024-11-19 19:05:27,166 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-19 19:05:27,166 - BaseNetwork - INFO - Epoch 0
+2024-11-19 19:05:52,217 - BaseNetwork - INFO - Epoch 1, Loss: 0.038263807079520144
+2024-11-19 19:05:52,218 - BaseNetwork - INFO - Epoch 1
+2024-11-19 19:06:17,743 - BaseNetwork - INFO - Epoch 2, Loss: 0.03180487761256024
+2024-11-19 19:06:17,743 - BaseNetwork - INFO - Epoch 2
+2024-11-19 19:06:42,926 - BaseNetwork - INFO - Epoch 3, Loss: 0.031664588144779265

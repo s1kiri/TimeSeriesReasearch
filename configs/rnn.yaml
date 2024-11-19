@@ -1,16 +1,17 @@
 BaseConfig:
   device: 'cpu'
-  batch_size: 16
+  batch_size: 64
+  eval_batch_size: 64
   num_epochs: 3
-  learning_rate: 0.0003
-  adam_betas: (0.95, 0.99)
+  learning_rate: 0.01
+  adam_betas: [0.95, 0.99]
   test_size_percentage: 0.05
   predictor_period: 30 # length of period of data that will be input for model
   forecast_period: 1
 
 UserConfig:
-  input_size: 30
-  hidden_size: 64
-  num_layers: 1 
+  input_size: 5
+  hidden_size: 128
+  num_layers: 4
   batch_first: True
   
