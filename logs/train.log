@@ -1728,3 +1728,13 @@
 2024-11-19 19:06:17,743 - BaseNetwork - INFO - Epoch 2, Loss: 0.03180487761256024
 2024-11-19 19:06:17,743 - BaseNetwork - INFO - Epoch 2
 2024-11-19 19:06:42,926 - BaseNetwork - INFO - Epoch 3, Loss: 0.031664588144779265
+2024-11-21 14:57:00,685 - BaseNetwork - INFO - Logger successfully initialized!
+2024-11-21 14:57:01,322 - BaseNetwork - INFO - Model has been initialized
+2024-11-21 14:57:01,322 - BaseNetwork - INFO - Optimizer and loss have been initialized
+2024-11-21 14:57:01,322 - BaseNetwork - INFO - Epoch 0
+2024-11-21 14:57:25,375 - BaseNetwork - INFO - Epoch 1, Loss: 0.03305648292647076
+2024-11-21 14:57:25,375 - BaseNetwork - INFO - Epoch 1
+2024-11-21 14:57:49,230 - BaseNetwork - INFO - Epoch 2, Loss: 0.03175203656241451
+2024-11-21 14:57:49,231 - BaseNetwork - INFO - Epoch 2
+2024-11-21 14:58:13,040 - BaseNetwork - INFO - Epoch 3, Loss: 0.031739542973024296
+2024-11-21 14:59:03,736 - BaseNetwork - INFO - Logger successfully initialized!
