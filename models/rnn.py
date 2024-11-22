@@ -91,20 +91,6 @@ class LSTM(nn.Module):
         last_hidden = hidden[-1]
         output = self.fc(last_hidden)
         return output
-class LSTMModel(nn.Module):
-    def __init__(self,  user_config:Dict):
-        super(LSTMModel, self).__init__()
-        self.user_config = user_config
-        self.lstm = nn.LSTM(input_size=self.user_config['input_size'], 
-                            hidden_size=self.user_config['hidden_size'],
-                            num_layers=self.user_config['num_layers'],
-                            batch_first=True)
-        self.fc = nn.Linear(self.user_config['hidden_size'], 1)
-
-    def forward(self, x):
-        out, _ = self.lstm(x)
-        out = self.fc(out[:, -1, :])  # берем последний временной шаг
-        return out
 
     
 class MLP(nn.Module):
